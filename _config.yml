@@ -1,0 +1,64 @@
+layout_spectrum: 0.7818457804649773
+typography_spectrum: 0.2770512983786625
+color:
+  brandColors:
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
+  brandStrength: 0.5659207598033297
+  lightness: 0.9536626626635984
+  saturation: 0.8915095208591717
+  rhythmicContrast: 0.9373300692700034
+coverPrefs:
+  filter: false
+name: 'Machine Learning, AI'
+navigation:
+  - name: EXPERTS
+    url: 'http://www.labsharegroup.com/'
+    type: external
+  - name: Business Architecture
+    url: 'http://www.buildventure.net/'
+    type: external
+title: Machine Learning
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91c2104e9c613dfe1c55b4c4351107d58c9d56ce.png">
+    src: >-
+      https://s3-us-west-2.amazonaws.com/the-grid-img/p/91c2104e9c613dfe1c55b4c4351107d58c9d56ce.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://s3-us-west-2.amazonaws.com'
+        name: .s3-us-west-2.amazonaws.com
+        favicon: null
+        domain: imgflo.herokuapp.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: >-
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/555a6f40ea69dac96fddfe77297e2c10/noop.png?input=https%3A%2F%2F4.bp.blogspot.com%2F-8tb8Zwn4iI8%2FWbEAQn3UuxI%2FAAAAAAAAAEA%2FWFZIaTxA13kY5CoTcsmIXF9aM--dounLgCLcBGAs%2Fs1600%2Fultrasound-hacking.png
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: learning resources
+purpose:
+  - type: external
+    url: 'http://www.labsharegroup.com/'
+    label: Contact with Experts
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d35ac939-7c03-4e61-b20d-ee6e2c60576c.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/baa4461f-5289-4086-a767-788fd369908b.png
+author:
+  name: Zahorecz Tibor
+  email: tibor.zahorecz@dosell.io
