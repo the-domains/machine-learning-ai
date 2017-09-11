@@ -22,7 +22,34 @@ navigation:
     url: 'http://www.buildventure.net/'
     type: external
 title: Machine Learning
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/576492cd4cbb2edd296089d3ae5a48a77f6449c3.jpg">
+    src: >-
+      https://s3-us-west-2.amazonaws.com/the-grid-img/p/576492cd4cbb2edd296089d3ae5a48a77f6449c3.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://s3-us-west-2.amazonaws.com'
+        name: .s3-us-west-2.amazonaws.com
+        favicon: null
+        domain: imgflo.herokuapp.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: >-
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/850a8f357cc1eff67e9c86441d16dedb/noop.jpg?input=http%3A%2F%2Fsloanreview.mit.edu%2Fcontent%2Fuploads%2F2017%2F09%2F2017-AI-BCG-Report-Artificial-Intelligence-Business-1200x627.jpg
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: learning evolution
 purpose:
   - type: external
