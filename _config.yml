@@ -54,9 +54,9 @@ purpose:
   - type: external
     url: 'http://www.labsharegroup.com/'
     label: Contact with Experts
-  - type: contact
-    url: 'mailto:tibor.zahorecz@dosell.io'
-    label: Contact me
+  - type: external
+    url: 'https://github.com/ZahoreczTibor?tab=repositories'
+    label: GitHub Repositories
 github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d35ac939-7c03-4e61-b20d-ee6e2c60576c.png
