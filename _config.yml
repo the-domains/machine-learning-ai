@@ -1,3 +1,8 @@
+name: 'Machine Learning, AI'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d35ac939-7c03-4e61-b20d-ee6e2c60576c.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/baa4461f-5289-4086-a767-788fd369908b.png
 layout_spectrum: 0.7818457804649773
 typography_spectrum: 0.2770512983786625
 color:
@@ -11,9 +16,19 @@ color:
   lightness: 0.9536626626635984
   saturation: 0.8915095208591717
   rhythmicContrast: 0.9373300692700034
-coverPrefs:
-  filter: false
-name: 'Machine Learning, AI'
+purpose:
+  - type: external
+    label: Contact with Experts
+    url: 'http://www.labsharegroup.com/'
+  - type: external
+    label: GitHub Repositories
+    url: 'https://github.com/ZahoreczTibor?tab=repositories'
+title: Machine Learning
+description: learning evolution
+author:
+  name: Zahorecz Tibor
+  url: 'http://www.labsharegroup.com/'
+  email: tibor.zahorecz@dosell.io
 navigation:
   - name: EXPERTS
     url: 'http://www.labsharegroup.com/'
@@ -21,7 +36,6 @@ navigation:
   - name: Business Architecture
     url: 'http://www.buildventure.net/'
     type: external
-title: Machine Learning
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -31,39 +45,19 @@ content:
     src: >-
       https://s3-us-west-2.amazonaws.com/the-grid-img/p/576492cd4cbb2edd296089d3ae5a48a77f6449c3.jpg
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://s3-us-west-2.amazonaws.com'
-        name: .s3-us-west-2.amazonaws.com
-        favicon: null
-        domain: imgflo.herokuapp.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
+      '@context': 'http://schema.org'
       isBasedOnUrl: >-
         https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/850a8f357cc1eff67e9c86441d16dedb/noop.jpg?input=http%3A%2F%2Fsloanreview.mit.edu%2Fcontent%2Fuploads%2F2017%2F09%2F2017-AI-BCG-Report-Artificial-Intelligence-Business-1200x627.jpg
-      datePublished: null
+      keywords: []
+      publisher:
+        name: .s3-us-west-2.amazonaws.com
+        domain: imgflo.herokuapp.com
+        url: 'https://s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: learning evolution
-purpose:
-  - type: external
-    url: 'http://www.labsharegroup.com/'
-    label: Contact with Experts
-  - type: external
-    url: 'https://github.com/ZahoreczTibor?tab=repositories'
-    label: GitHub Repositories
 github: true
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d35ac939-7c03-4e61-b20d-ee6e2c60576c.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/baa4461f-5289-4086-a767-788fd369908b.png
-author:
-  name: Zahorecz Tibor
-  email: tibor.zahorecz@dosell.io
-  url: 'http://www.labsharegroup.com/'
