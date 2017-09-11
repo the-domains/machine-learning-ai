@@ -1,21 +1,23 @@
+layout_spectrum: 0.3174326463071353
+typography_spectrum: 0.9755482695040542
+color:
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  brandStrength: 0.6257998176613399
+  lightness: 0.5865720717533316
+  saturation: 0.9811341544536708
+  rhythmicContrast: 0.5533287317445963
+coverPrefs:
+  filter: false
 name: 'Machine Learning, AI'
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d35ac939-7c03-4e61-b20d-ee6e2c60576c.png
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/baa4461f-5289-4086-a767-788fd369908b.png
-layout_spectrum: 0.7818457804649773
-typography_spectrum: 0.2770512983786625
-color:
-  brandColors:
-    - '#FFF8E3'
-    - '#CCCC9F'
-    - '#33332D'
-    - '#9FB4CC'
-    - '#DB4105'
-  brandStrength: 0.5659207598033297
-  lightness: 0.9536626626635984
-  saturation: 0.8915095208591717
-  rhythmicContrast: 0.9373300692700034
 purpose:
   - type: external
     label: Contact with Experts
