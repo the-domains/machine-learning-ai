@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Sep 2017 06:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2017 06:08:45 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 Sep 2017 06:08:02 GMT</pubDate>
+        <pubDate>Thu, 14 Sep 2017 06:08:04 GMT</pubDate>
+        <item>
+            <title><![CDATA[A Guide to DeepMind's StarCraft AI Environment]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FURWXG5jRB-A%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DURWXG5jRB-A&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FURWXG5jRB-A%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/URWXG5jRB-A</link>
+            <guid isPermaLink="false">f0d4af73-1e88-434b-8d3b-9416816034c5</guid>
+            <pubDate>Thu, 14 Sep 2017 06:07:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Build your own Machine Learning Visualizations with the new TensorBoard API]]></title>
             <description><![CDATA[<article><h1>Build your own Machine Learning Visualizations with the new TensorBoard API</h1><p>When we open-sourced TensorFlow in 2015, it included TensorBoard, a suite of visualizations for inspecting and understanding your TensorFlow models and runs. Tensorboard included a small, predetermined set of visualizations that are generic and applicable to nearly all deep learning applications such as observing how loss changes over time or exploring clusters in high-dimensional spaces.</p><img src="http://1.bp.blogspot.com/-5bPNsF5plzw/VnJWs-7RbrI/AAAAAAAARmA/DaZmn8YUjAk/s1600-r/logo_research_at_google_color_1x_web_512dp.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/</link>
             <guid isPermaLink="false">b4402a14-6369-4a84-a2fb-878c5a775711</guid>
             <pubDate>Wed, 16 Aug 2017 05:45:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI]]></title>
-            <description><![CDATA[<article><h1>OpenAI</h1><p>OpenAI is a non-profit AI research company, discovering and enacting the path to safe artificial general intelligence.</p><img src="https://openai.com/assets/images/opengraph/og_image-1cfd63ae6b.png"></article>]]></description>
-            <link>https://openai.com/</link>
-            <guid isPermaLink="false">f9a71309-07d1-440b-afb5-a25aed4fe1c9</guid>
-            <pubDate>Sat, 12 Aug 2017 08:18:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
