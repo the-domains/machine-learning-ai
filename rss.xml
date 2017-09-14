@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Machine Learning]]></title>
+        <description><![CDATA[Machine Learning]]></description>
+        <link>http://machinelearning.engineering/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Sep 2017 06:08:28 GMT</lastBuildDate>
+        <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 14 Sep 2017 06:08:02 GMT</pubDate>
+        <item>
+            <title><![CDATA[Build your own Machine Learning Visualizations with the new TensorBoard API]]></title>
+            <description><![CDATA[<article><h1>Build your own Machine Learning Visualizations with the new TensorBoard API</h1><p>When we open-sourced TensorFlow in 2015, it included TensorBoard, a suite of visualizations for inspecting and understanding your TensorFlow models and runs. Tensorboard included a small, predetermined set of visualizations that are generic and applicable to nearly all deep learning applications such as observing how loss changes over time or exploring clusters in high-dimensional spaces.</p><img src="http://1.bp.blogspot.com/-5bPNsF5plzw/VnJWs-7RbrI/AAAAAAAARmA/DaZmn8YUjAk/s1600-r/logo_research_at_google_color_1x_web_512dp.png"></article>]]></description>
+            <link>https://research.googleblog.com/2017/09/build-your-own-machine-learning.html?m=1</link>
+            <guid isPermaLink="false">c64a1606-7b14-4a03-b73b-69b5e071905f</guid>
+            <pubDate>Thu, 14 Sep 2017 06:07:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reshaping Business With Artificial Intelligence]]></title>
+            <description><![CDATA[<article><h1>Reshaping Business With Artificial Intelligence</h1><p>Advertisement Expectations for artificial intelligence (AI) are sky-high, but what are businesses actually doing now? The goal of this report is to present a realistic baseline that allows companies to compare their AI ambitions and efforts.</p><img src="http://sloanreview.mit.edu/content/uploads/2017/09/2017-AI-BCG-Report-Artificial-Intelligence-Business-1200x627.jpg"></article>]]></description>
+            <link>http://sloanreview.mit.edu/projects/reshaping-business-with-artificial-intelligence/?imm_mid=0f5f74&amp;cmp=em-data-na-na-newsltr_ai_20170911</link>
+            <guid isPermaLink="false">2fd8c733-7fa2-44b7-8474-2c274d1d727d</guid>
+            <pubDate>Mon, 11 Sep 2017 13:29:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hackers Can Silently Control Siri, Alexa & Other Voice Assistants Using Ultrasound]]></title>
+            <description><![CDATA[<article><h1>Hackers Can Silently Control Siri, Alexa &amp; Other Voice Assistants Using Ultrasound</h1><p>What if your smartphone starts making calls, sending text messages, and browsing malicious websites on the Internet itself without even asking you? This is no imaginations, as hackers can make this possible using your smartphone&apos;s personal assistant like Siri or Google Now.</p><img src="https://4.bp.blogspot.com/-8tb8Zwn4iI8/WbEAQn3UuxI/AAAAAAAAAEA/WFZIaTxA13kY5CoTcsmIXF9aM--dounLgCLcBGAs/s1600/ultrasound-hacking.png"></article>]]></description>
+            <link>http://thehackernews.com/2017/09/ai-digital-voice-assistants.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+TheHackersNews+(The+Hackers+News+-+Security+Blog)&amp;_m=3n.009a.1574.bb0ao088zs.y2a&amp;es_p=4879186&amp;m=1</link>
+            <guid isPermaLink="false">f6bffb2d-029e-4724-97bf-71ffbb098398</guid>
+            <pubDate>Mon, 11 Sep 2017 07:56:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Guide to CoreML on iOS]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FT4t73CXB7CU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT4t73CXB7CU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FT4t73CXB7CU%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/T4t73CXB7CU</link>
+            <guid isPermaLink="false">669ee4ff-442b-4759-9de1-415948220933</guid>
+            <pubDate>Tue, 05 Sep 2017 05:42:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quantum Computing - The Math of Intelligence #10]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FLhtnECml-KI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLhtnECml-KI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLhtnECml-KI%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/LhtnECml-KI</link>
+            <guid isPermaLink="false">a8545676-ec63-4ba8-b1b1-ab1cb8068a86</guid>
+            <pubDate>Mon, 28 Aug 2017 06:09:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Business of Artificial Intelligence]]></title>
+            <description><![CDATA[<article><h1>The Business of Artificial Intelligence</h1><p>For more than 250 years the fundamental drivers of economic growth have been technological innovations. The most important of these are what economists call general-purpose technologies - a category that includes the steam engine, electricity, and the internal combustion engine. Each one catalyzed waves of complementary innovations and opportunities.</p><img src="https://hbr.org/resources/images/article_assets/2017/07/AI-hero-premium.jpg"></article>]]></description>
+            <link>https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence</link>
+            <guid isPermaLink="false">fc3d5398-7d16-4d9d-ada3-9254ee1c5172</guid>
+            <pubDate>Mon, 28 Aug 2017 06:09:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[deeplearn.js]]></title>
+            <description><![CDATA[<article><h1>deeplearn.js</h1><p>a hardware-accelerated machine intelligence library for the web</p><img src="https://pair-code.github.io/deeplearnjs/preview.png"></article>]]></description>
+            <link>https://pair-code.github.io/deeplearnjs/index.html</link>
+            <guid isPermaLink="false">4ec167f6-a9fe-4932-859d-5bed44c460a8</guid>
+            <pubDate>Thu, 17 Aug 2017 14:41:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenMined Introduction]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FsXFmKquiVnk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsXFmKquiVnk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsXFmKquiVnk%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/sXFmKquiVnk</link>
+            <guid isPermaLink="false">b57b40d1-f69a-420d-8674-fcae5ae3aff1</guid>
+            <pubDate>Thu, 17 Aug 2017 14:41:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which machine learning algorithm should I use?]]></title>
+            <description><![CDATA[<article><h1>Which machine learning algorithm should I use?</h1><p>This resource is designed primarily for beginner to intermediate data scientists or analysts who are interested in identifying and applying machine learning algorithms to address the problems of their interest. A typical question asked by a beginner, when facing a wide variety of machine learning algorithms, is &quot;which algorithm should</p><img src="http://blogs.sas.com/content/subconsciousmusings/files/2017/04/machine-learning-cheet-sheet.png"></article>]]></description>
+            <link>http://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/</link>
+            <guid isPermaLink="false">b4402a14-6369-4a84-a2fb-878c5a775711</guid>
+            <pubDate>Wed, 16 Aug 2017 05:45:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI]]></title>
+            <description><![CDATA[<article><h1>OpenAI</h1><p>OpenAI is a non-profit AI research company, discovering and enacting the path to safe artificial general intelligence.</p><img src="https://openai.com/assets/images/opengraph/og_image-1cfd63ae6b.png"></article>]]></description>
+            <link>https://openai.com/</link>
+            <guid isPermaLink="false">f9a71309-07d1-440b-afb5-a25aed4fe1c9</guid>
+            <pubDate>Sat, 12 Aug 2017 08:18:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
