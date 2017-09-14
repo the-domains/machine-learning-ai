@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Sep 2017 06:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2017 06:08:56 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 Sep 2017 06:08:04 GMT</pubDate>
+        <pubDate>Thu, 14 Sep 2017 06:08:12 GMT</pubDate>
+        <item>
+            <title><![CDATA[From Tic Tac Toe to AlphaGo: Playing games with AI and machine learning by Roy van Rijn]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FyMRuYeOLf0o%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyMRuYeOLf0o&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FyMRuYeOLf0o%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/yMRuYeOLf0o</link>
+            <guid isPermaLink="false">3118bfd1-433a-4947-9f97-286e26de0f48</guid>
+            <pubDate>Thu, 14 Sep 2017 06:08:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Guide to DeepMind's StarCraft AI Environment]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FURWXG5jRB-A%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DURWXG5jRB-A&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FURWXG5jRB-A%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/sXFmKquiVnk</link>
             <guid isPermaLink="false">b57b40d1-f69a-420d-8674-fcae5ae3aff1</guid>
             <pubDate>Thu, 17 Aug 2017 14:41:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which machine learning algorithm should I use?]]></title>
-            <description><![CDATA[<article><h1>Which machine learning algorithm should I use?</h1><p>This resource is designed primarily for beginner to intermediate data scientists or analysts who are interested in identifying and applying machine learning algorithms to address the problems of their interest. A typical question asked by a beginner, when facing a wide variety of machine learning algorithms, is &quot;which algorithm should</p><img src="http://blogs.sas.com/content/subconsciousmusings/files/2017/04/machine-learning-cheet-sheet.png"></article>]]></description>
-            <link>http://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/</link>
-            <guid isPermaLink="false">b4402a14-6369-4a84-a2fb-878c5a775711</guid>
-            <pubDate>Wed, 16 Aug 2017 05:45:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
