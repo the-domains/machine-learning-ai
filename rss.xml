@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Sep 2017 06:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2017 15:10:05 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 Sep 2017 06:08:12 GMT</pubDate>
+        <pubDate>Thu, 21 Sep 2017 15:09:59 GMT</pubDate>
+        <item>
+            <title><![CDATA[An Introduction to GPU Programming with CUDA]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F1cHx1baKqq0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1cHx1baKqq0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1cHx1baKqq0%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/1cHx1baKqq0</link>
+            <guid isPermaLink="false">43b1a1c0-a4a4-48bc-8067-bb8c3714cb1d</guid>
+            <pubDate>Thu, 21 Sep 2017 15:09:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[From Tic Tac Toe to AlphaGo: Playing games with AI and machine learning by Roy van Rijn]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FyMRuYeOLf0o%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyMRuYeOLf0o&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FyMRuYeOLf0o%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://pair-code.github.io/deeplearnjs/index.html</link>
             <guid isPermaLink="false">4ec167f6-a9fe-4932-859d-5bed44c460a8</guid>
             <pubDate>Thu, 17 Aug 2017 14:41:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenMined Introduction]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FsXFmKquiVnk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsXFmKquiVnk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsXFmKquiVnk%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/sXFmKquiVnk</link>
-            <guid isPermaLink="false">b57b40d1-f69a-420d-8674-fcae5ae3aff1</guid>
-            <pubDate>Thu, 17 Aug 2017 14:41:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
