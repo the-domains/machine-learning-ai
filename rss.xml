@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Sep 2017 15:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2017 06:24:36 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 Sep 2017 15:09:59 GMT</pubDate>
+        <pubDate>Fri, 22 Sep 2017 06:24:02 GMT</pubDate>
+        <item>
+            <title><![CDATA[Ginni Rometty on the End of Programming]]></title>
+            <description><![CDATA[<article><h1>Ginni Rometty on the End of Programming</h1><p>IBM Chief Executive Officer Ginni Rometty was interviewed on Sept. 13 in New York City by Bloomberg Businessweek Editor Megan Murphy. Following are excerpts from their discussion, which appear in the Sept. 25, 2017, edition of Bloomberg Businessweek. Megan Murphy: Artificial intelligence. People may not know that IBM doesn&apos;t call it AI.</p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iz4e82Ny3eHI/v1/1200x820.jpg"></article>]]></description>
+            <link>https://www.bloomberg.com/news/features/2017-09-20/ginni-rometty-on-artificial-intelligence?cmpid=socialflow-twitter-businessweek&amp;utm_content=businessweek&amp;utm_campaign=socialflow-organic&amp;utm_source=twitter&amp;utm_medium=social&amp;linkId=42566220</link>
+            <guid isPermaLink="false">cfbd00c8-8c6e-4240-a2f0-541eb7b62087</guid>
+            <pubDate>Fri, 22 Sep 2017 06:24:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An Introduction to GPU Programming with CUDA]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F1cHx1baKqq0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1cHx1baKqq0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1cHx1baKqq0%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence</link>
             <guid isPermaLink="false">fc3d5398-7d16-4d9d-ada3-9254ee1c5172</guid>
             <pubDate>Mon, 28 Aug 2017 06:09:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[deeplearn.js]]></title>
-            <description><![CDATA[<article><h1>deeplearn.js</h1><p>a hardware-accelerated machine intelligence library for the web</p><img src="https://pair-code.github.io/deeplearnjs/preview.png"></article>]]></description>
-            <link>https://pair-code.github.io/deeplearnjs/index.html</link>
-            <guid isPermaLink="false">4ec167f6-a9fe-4932-859d-5bed44c460a8</guid>
-            <pubDate>Thu, 17 Aug 2017 14:41:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
