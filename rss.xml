@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Sep 2017 15:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2017 15:45:57 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 Sep 2017 15:44:51 GMT</pubDate>
+        <pubDate>Tue, 26 Sep 2017 15:45:00 GMT</pubDate>
+        <item>
+            <title><![CDATA[New Theory Cracks Open the Black Box of Deep Learning | Quanta Magazine]]></title>
+            <description><![CDATA[<article><h1>New Theory Cracks Open the Black Box of Deep Learning | Quanta Magazine</h1><p>Even as machines known as &quot;deep neural networks&quot; have learned to converse, drive cars, beat video games and Go champions, dream, paint pictures and help make scientific discoveries, they have also confounded their human creators, who never expected so-called &quot;deep-learning&quot; algorithms to work so well.</p><img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/09/InfoBottleneck_2880x1620-2880x1620.jpg"></article>]]></description>
+            <link>https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/</link>
+            <guid isPermaLink="false">1203f4c1-ce72-4f8d-9c8a-062d53a78576</guid>
+            <pubDate>Tue, 26 Sep 2017 15:44:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AI Technology Made for Anyone and Everyone | Microsoft AI]]></title>
             <description><![CDATA[<article><h1>AI Technology Made for Anyone and Everyone | Microsoft AI</h1><p>Control the power of AI with Microsoft AI products and AI solutions. From business to consumer, Microsoft&apos;s AI platform has developed a product you can use.</p><img src="https://www.microsoft.com/en-us/CMSImages/Hero_First_Frame_Still_2.jpg?version=2cb37980-5c2d-4106-5c42-dcf7765ff9fd"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://thehackernews.com/2017/09/ai-digital-voice-assistants.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+TheHackersNews+(The+Hackers+News+-+Security+Blog)&amp;_m=3n.009a.1574.bb0ao088zs.y2a&amp;es_p=4879186&amp;m=1</link>
             <guid isPermaLink="false">f6bffb2d-029e-4724-97bf-71ffbb098398</guid>
             <pubDate>Mon, 11 Sep 2017 07:56:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Guide to CoreML on iOS]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FT4t73CXB7CU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT4t73CXB7CU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FT4t73CXB7CU%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/T4t73CXB7CU</link>
-            <guid isPermaLink="false">669ee4ff-442b-4759-9de1-415948220933</guid>
-            <pubDate>Tue, 05 Sep 2017 05:42:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
