@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Sep 2017 15:45:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2017 15:45:54 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 Sep 2017 15:44:49 GMT</pubDate>
+        <pubDate>Tue, 26 Sep 2017 15:44:51 GMT</pubDate>
+        <item>
+            <title><![CDATA[AI Technology Made for Anyone and Everyone | Microsoft AI]]></title>
+            <description><![CDATA[<article><h1>AI Technology Made for Anyone and Everyone | Microsoft AI</h1><p>Control the power of AI with Microsoft AI products and AI solutions. From business to consumer, Microsoft&apos;s AI platform has developed a product you can use.</p><img src="https://www.microsoft.com/en-us/CMSImages/Hero_First_Frame_Still_2.jpg?version=2cb37980-5c2d-4106-5c42-dcf7765ff9fd"></article>]]></description>
+            <link>https://www.microsoft.com/en-us/ai</link>
+            <guid isPermaLink="false">c584f722-2491-4585-a860-df9015f2d199</guid>
+            <pubDate>Tue, 26 Sep 2017 15:44:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Business of Artificial Intelligence]]></title>
             <description><![CDATA[<article><h1>The Business of Artificial Intelligence</h1><p>For more than 250 years the fundamental drivers of economic growth have been technological innovations. The most important of these are what economists call general-purpose technologies - a category that includes the steam engine, electricity, and the internal combustion engine. Each one catalyzed waves of complementary innovations and opportunities.</p><img src="https://hbr.org/resources/images/article_assets/2017/07/AI-hero-premium.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/T4t73CXB7CU</link>
             <guid isPermaLink="false">669ee4ff-442b-4759-9de1-415948220933</guid>
             <pubDate>Tue, 05 Sep 2017 05:42:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quantum Computing - The Math of Intelligence #10]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FLhtnECml-KI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLhtnECml-KI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLhtnECml-KI%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/LhtnECml-KI</link>
-            <guid isPermaLink="false">a8545676-ec63-4ba8-b1b1-ab1cb8068a86</guid>
-            <pubDate>Mon, 28 Aug 2017 06:09:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
