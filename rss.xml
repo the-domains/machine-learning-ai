@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Sep 2017 06:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2017 15:45:39 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 Sep 2017 06:24:02 GMT</pubDate>
+        <pubDate>Tue, 26 Sep 2017 15:44:49 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Business of Artificial Intelligence]]></title>
+            <description><![CDATA[<article><h1>The Business of Artificial Intelligence</h1><p>For more than 250 years the fundamental drivers of economic growth have been technological innovations. The most important of these are what economists call general-purpose technologies - a category that includes the steam engine, electricity, and the internal combustion engine. Each one catalyzed waves of complementary innovations and opportunities.</p><img src="https://hbr.org/resources/images/article_assets/2017/07/AI-hero-premium.jpg"></article>]]></description>
+            <link>https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence</link>
+            <guid isPermaLink="false">5617844c-e1b6-4da9-b538-ea78872b3be5</guid>
+            <pubDate>Tue, 26 Sep 2017 15:44:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ginni Rometty on the End of Programming]]></title>
             <description><![CDATA[<article><h1>Ginni Rometty on the End of Programming</h1><p>IBM Chief Executive Officer Ginni Rometty was interviewed on Sept. 13 in New York City by Bloomberg Businessweek Editor Megan Murphy. Following are excerpts from their discussion, which appear in the Sept. 25, 2017, edition of Bloomberg Businessweek. Megan Murphy: Artificial intelligence. People may not know that IBM doesn&apos;t call it AI.</p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iz4e82Ny3eHI/v1/1200x820.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/LhtnECml-KI</link>
             <guid isPermaLink="false">a8545676-ec63-4ba8-b1b1-ab1cb8068a86</guid>
             <pubDate>Mon, 28 Aug 2017 06:09:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Business of Artificial Intelligence]]></title>
-            <description><![CDATA[<article><h1>The Business of Artificial Intelligence</h1><p>For more than 250 years the fundamental drivers of economic growth have been technological innovations. The most important of these are what economists call general-purpose technologies - a category that includes the steam engine, electricity, and the internal combustion engine. Each one catalyzed waves of complementary innovations and opportunities.</p><img src="https://hbr.org/resources/images/article_assets/2017/07/AI-hero-premium.jpg"></article>]]></description>
-            <link>https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence</link>
-            <guid isPermaLink="false">fc3d5398-7d16-4d9d-ada3-9254ee1c5172</guid>
-            <pubDate>Mon, 28 Aug 2017 06:09:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
