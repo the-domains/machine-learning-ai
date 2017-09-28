@@ -4,9 +4,23 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Sep 2017 15:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2017 07:25:23 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 Sep 2017 15:45:00 GMT</pubDate>
+        <pubDate>Thu, 28 Sep 2017 07:25:14 GMT</pubDate>
+        <item>
+            <title><![CDATA[AI Experiments]]></title>
+            <description><![CDATA[<article><h1>AI Experiments</h1><p>AI Experiments is a showcase for simple experiments that make it easier for anyone to start exploring machine learning, through pictures, drawings, language, music, and more.</p><img src="https://lh3.googleusercontent.com/qxeEIGdXR1-wT4adfs4Rnl49IYW7_BXjPnX0sYCTWnyH2kTRt3kzz7o6JTdGufKY-LcAKaybF1VDhygBmC_Ork-jt-a-cg"></article>]]></description>
+            <link>https://experiments.withgoogle.com/ai</link>
+            <guid isPermaLink="false">88d51a58-49fb-429b-b012-b7e0e9f97f63</guid>
+            <pubDate>Thu, 28 Sep 2017 07:25:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Guide to Building Your First Decentralized Application]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FgSQXq2_j-mw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgSQXq2_j-mw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgSQXq2_j-mw%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/gSQXq2_j-mw</link>
+            <guid isPermaLink="false">ca0e0673-65b3-4efb-acd7-5991b4022be3</guid>
+            <pubDate>Thu, 28 Sep 2017 07:25:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Theory Cracks Open the Black Box of Deep Learning | Quanta Magazine]]></title>
             <description><![CDATA[<article><h1>New Theory Cracks Open the Black Box of Deep Learning | Quanta Magazine</h1><p>Even as machines known as &quot;deep neural networks&quot; have learned to converse, drive cars, beat video games and Go champions, dream, paint pictures and help make scientific discoveries, they have also confounded their human creators, who never expected so-called &quot;deep-learning&quot; algorithms to work so well.</p><img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/09/InfoBottleneck_2880x1620-2880x1620.jpg"></article>]]></description>
@@ -62,20 +76,6 @@
             <link>https://research.googleblog.com/2017/09/build-your-own-machine-learning.html?m=1</link>
             <guid isPermaLink="false">c64a1606-7b14-4a03-b73b-69b5e071905f</guid>
             <pubDate>Thu, 14 Sep 2017 06:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reshaping Business With Artificial Intelligence]]></title>
-            <description><![CDATA[<article><h1>Reshaping Business With Artificial Intelligence</h1><p>Advertisement Expectations for artificial intelligence (AI) are sky-high, but what are businesses actually doing now? The goal of this report is to present a realistic baseline that allows companies to compare their AI ambitions and efforts.</p><img src="http://sloanreview.mit.edu/content/uploads/2017/09/2017-AI-BCG-Report-Artificial-Intelligence-Business-1200x627.jpg"></article>]]></description>
-            <link>http://sloanreview.mit.edu/projects/reshaping-business-with-artificial-intelligence/?imm_mid=0f5f74&amp;cmp=em-data-na-na-newsltr_ai_20170911</link>
-            <guid isPermaLink="false">2fd8c733-7fa2-44b7-8474-2c274d1d727d</guid>
-            <pubDate>Mon, 11 Sep 2017 13:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hackers Can Silently Control Siri, Alexa & Other Voice Assistants Using Ultrasound]]></title>
-            <description><![CDATA[<article><h1>Hackers Can Silently Control Siri, Alexa &amp; Other Voice Assistants Using Ultrasound</h1><p>What if your smartphone starts making calls, sending text messages, and browsing malicious websites on the Internet itself without even asking you? This is no imaginations, as hackers can make this possible using your smartphone&apos;s personal assistant like Siri or Google Now.</p><img src="https://4.bp.blogspot.com/-8tb8Zwn4iI8/WbEAQn3UuxI/AAAAAAAAAEA/WFZIaTxA13kY5CoTcsmIXF9aM--dounLgCLcBGAs/s1600/ultrasound-hacking.png"></article>]]></description>
-            <link>http://thehackernews.com/2017/09/ai-digital-voice-assistants.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+TheHackersNews+(The+Hackers+News+-+Security+Blog)&amp;_m=3n.009a.1574.bb0ao088zs.y2a&amp;es_p=4879186&amp;m=1</link>
-            <guid isPermaLink="false">f6bffb2d-029e-4724-97bf-71ffbb098398</guid>
-            <pubDate>Mon, 11 Sep 2017 07:56:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
