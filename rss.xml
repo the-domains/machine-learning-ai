@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Sep 2017 17:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2017 17:01:59 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 Sep 2017 17:01:37 GMT</pubDate>
+        <pubDate>Fri, 29 Sep 2017 17:01:58 GMT</pubDate>
+        <item>
+            <title><![CDATA[How do we Democratize Access to Data?]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHAC6sqq7_-U%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHAC6sqq7_-U&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHAC6sqq7_-U%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/HAC6sqq7_-U</link>
+            <guid isPermaLink="false">a8b523ec-8a40-4e29-ba43-7f7aae09bd7c</guid>
+            <pubDate>Fri, 29 Sep 2017 17:01:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Guide to Building Your First Decentralized Application]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FgSQXq2_j-mw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgSQXq2_j-mw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgSQXq2_j-mw%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/yMRuYeOLf0o</link>
             <guid isPermaLink="false">3118bfd1-433a-4947-9f97-286e26de0f48</guid>
             <pubDate>Thu, 14 Sep 2017 06:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Guide to DeepMind's StarCraft AI Environment]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FURWXG5jRB-A%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DURWXG5jRB-A&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FURWXG5jRB-A%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/URWXG5jRB-A</link>
-            <guid isPermaLink="false">f0d4af73-1e88-434b-8d3b-9416816034c5</guid>
-            <pubDate>Thu, 14 Sep 2017 06:07:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
