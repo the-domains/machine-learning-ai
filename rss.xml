@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Sep 2017 07:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2017 17:01:50 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 Sep 2017 07:25:14 GMT</pubDate>
+        <pubDate>Fri, 29 Sep 2017 17:01:37 GMT</pubDate>
+        <item>
+            <title><![CDATA[A Guide to Building Your First Decentralized Application]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FgSQXq2_j-mw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgSQXq2_j-mw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgSQXq2_j-mw%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/gSQXq2_j-mw</link>
+            <guid isPermaLink="false">3fdf9066-5724-4e60-811d-068a9bca5506</guid>
+            <pubDate>Fri, 29 Sep 2017 17:01:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AI Experiments]]></title>
             <description><![CDATA[<article><h1>AI Experiments</h1><p>AI Experiments is a showcase for simple experiments that make it easier for anyone to start exploring machine learning, through pictures, drawings, language, music, and more.</p><img src="https://lh3.googleusercontent.com/qxeEIGdXR1-wT4adfs4Rnl49IYW7_BXjPnX0sYCTWnyH2kTRt3kzz7o6JTdGufKY-LcAKaybF1VDhygBmC_Ork-jt-a-cg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/URWXG5jRB-A</link>
             <guid isPermaLink="false">f0d4af73-1e88-434b-8d3b-9416816034c5</guid>
             <pubDate>Thu, 14 Sep 2017 06:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build your own Machine Learning Visualizations with the new TensorBoard API]]></title>
-            <description><![CDATA[<article><h1>Build your own Machine Learning Visualizations with the new TensorBoard API</h1><p>When we open-sourced TensorFlow in 2015, it included TensorBoard, a suite of visualizations for inspecting and understanding your TensorFlow models and runs. Tensorboard included a small, predetermined set of visualizations that are generic and applicable to nearly all deep learning applications such as observing how loss changes over time or exploring clusters in high-dimensional spaces.</p><img src="http://1.bp.blogspot.com/-5bPNsF5plzw/VnJWs-7RbrI/AAAAAAAARmA/DaZmn8YUjAk/s1600-r/logo_research_at_google_color_1x_web_512dp.png"></article>]]></description>
-            <link>https://research.googleblog.com/2017/09/build-your-own-machine-learning.html?m=1</link>
-            <guid isPermaLink="false">c64a1606-7b14-4a03-b73b-69b5e071905f</guid>
-            <pubDate>Thu, 14 Sep 2017 06:07:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
