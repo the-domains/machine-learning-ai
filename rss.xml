@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Sep 2017 17:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2017 09:26:43 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 Sep 2017 17:01:58 GMT</pubDate>
+        <pubDate>Sun, 01 Oct 2017 09:26:40 GMT</pubDate>
+        <item>
+            <title><![CDATA[Codota - Your AI pair programmer]]></title>
+            <description><![CDATA[<article><h1>Codota - Your AI pair programmer</h1><p>Codota understands the world&apos;s code and provides you with the right suggestion at the right time</p><img src="https://www.codota.com/img/codota-share.png"></article>]]></description>
+            <link>https://www.codota.com/</link>
+            <guid isPermaLink="false">a3ab104a-baf2-4b74-b62f-bd03b5a2d043</guid>
+            <pubDate>Sun, 01 Oct 2017 09:26:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How do we Democratize Access to Data?]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHAC6sqq7_-U%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHAC6sqq7_-U&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHAC6sqq7_-U%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/1cHx1baKqq0</link>
             <guid isPermaLink="false">43b1a1c0-a4a4-48bc-8067-bb8c3714cb1d</guid>
             <pubDate>Thu, 21 Sep 2017 15:09:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Tic Tac Toe to AlphaGo: Playing games with AI and machine learning by Roy van Rijn]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FyMRuYeOLf0o%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyMRuYeOLf0o&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FyMRuYeOLf0o%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/yMRuYeOLf0o</link>
-            <guid isPermaLink="false">3118bfd1-433a-4947-9f97-286e26de0f48</guid>
-            <pubDate>Thu, 14 Sep 2017 06:08:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
