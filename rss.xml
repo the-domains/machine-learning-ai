@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 Oct 2017 09:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2017 10:59:52 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Oct 2017 09:26:40 GMT</pubDate>
+        <pubDate>Mon, 02 Oct 2017 10:59:51 GMT</pubDate>
+        <item>
+            <title><![CDATA[Building Safe A.I. - i am trask]]></title>
+            <description><![CDATA[<article><h1>Building Safe A.I. - i am trask</h1><p>A machine learning craftsmanship blog.</p><img src="https://iamtrask.github.io/img/taylor_series.gif"></article>]]></description>
+            <link>http://iamtrask.github.io/2017/03/17/safe-ai/</link>
+            <guid isPermaLink="false">8d4202de-04dd-4cd4-8468-a237d8acff73</guid>
+            <pubDate>Mon, 02 Oct 2017 10:59:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Codota - Your AI pair programmer]]></title>
             <description><![CDATA[<article><h1>Codota - Your AI pair programmer</h1><p>Codota understands the world&apos;s code and provides you with the right suggestion at the right time</p><img src="https://www.codota.com/img/codota-share.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.bloomberg.com/news/features/2017-09-20/ginni-rometty-on-artificial-intelligence?cmpid=socialflow-twitter-businessweek&amp;utm_content=businessweek&amp;utm_campaign=socialflow-organic&amp;utm_source=twitter&amp;utm_medium=social&amp;linkId=42566220</link>
             <guid isPermaLink="false">cfbd00c8-8c6e-4240-a2f0-541eb7b62087</guid>
             <pubDate>Fri, 22 Sep 2017 06:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Introduction to GPU Programming with CUDA]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F1cHx1baKqq0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1cHx1baKqq0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1cHx1baKqq0%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/1cHx1baKqq0</link>
-            <guid isPermaLink="false">43b1a1c0-a4a4-48bc-8067-bb8c3714cb1d</guid>
-            <pubDate>Thu, 21 Sep 2017 15:09:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
