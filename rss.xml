@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Oct 2017 10:59:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2017 06:38:35 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Oct 2017 10:59:51 GMT</pubDate>
+        <pubDate>Fri, 06 Oct 2017 06:38:34 GMT</pubDate>
+        <item>
+            <title><![CDATA[Blockchains: How They Work and Why They'll Change the World]]></title>
+            <description><![CDATA[<article><h1>Blockchains: How They Work and Why They&apos;ll Change the World</h1><p>Jump to Sections in this Feature Bitcoin was hatched as an act of defiance. Unleashed in the wake of the Great Recession, the cryptocurrency was touted by its early champions as an antidote to the inequities and corruption of the traditional financial system.</p><img src="https://spectrum.ieee.org/image/Mjk1NzQ0NA.jpeg"></article>]]></description>
+            <link>https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world</link>
+            <guid isPermaLink="false">611610b8-e561-4a6b-a6b2-82958d21a681</guid>
+            <pubDate>Fri, 06 Oct 2017 06:38:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Building Safe A.I. - i am trask]]></title>
             <description><![CDATA[<article><h1>Building Safe A.I. - i am trask</h1><p>A machine learning craftsmanship blog.</p><img src="https://iamtrask.github.io/img/taylor_series.gif"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence</link>
             <guid isPermaLink="false">5617844c-e1b6-4da9-b538-ea78872b3be5</guid>
             <pubDate>Tue, 26 Sep 2017 15:44:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ginni Rometty on the End of Programming]]></title>
-            <description><![CDATA[<article><h1>Ginni Rometty on the End of Programming</h1><p>IBM Chief Executive Officer Ginni Rometty was interviewed on Sept. 13 in New York City by Bloomberg Businessweek Editor Megan Murphy. Following are excerpts from their discussion, which appear in the Sept. 25, 2017, edition of Bloomberg Businessweek. Megan Murphy: Artificial intelligence. People may not know that IBM doesn&apos;t call it AI.</p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iz4e82Ny3eHI/v1/1200x820.jpg"></article>]]></description>
-            <link>https://www.bloomberg.com/news/features/2017-09-20/ginni-rometty-on-artificial-intelligence?cmpid=socialflow-twitter-businessweek&amp;utm_content=businessweek&amp;utm_campaign=socialflow-organic&amp;utm_source=twitter&amp;utm_medium=social&amp;linkId=42566220</link>
-            <guid isPermaLink="false">cfbd00c8-8c6e-4240-a2f0-541eb7b62087</guid>
-            <pubDate>Fri, 22 Sep 2017 06:24:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
