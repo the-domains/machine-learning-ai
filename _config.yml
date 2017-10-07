@@ -1,5 +1,5 @@
-layout_spectrum: 0.6995824657957816
-typography_spectrum: 0.9666140880854339
+layout_spectrum: 0.1804912527799053
+typography_spectrum: 0.4691931895020944
 color:
   brandColors:
     - '#FCFFF5'
@@ -7,10 +7,10 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-  brandStrength: 0.5515616073056429
-  lightness: 0.75527312423997
-  saturation: 0.5762582869576013
-  rhythmicContrast: 0.563774320849651
+  brandStrength: 0.9206295239004205
+  lightness: 0.3917612776626824
+  saturation: 0.41181308321396604
+  rhythmicContrast: 0.7722060142087722
 coverPrefs:
   filter: false
 name: 'Machine Learning, AI'
@@ -56,7 +56,6 @@ content:
         domain: imgflo.herokuapp.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
