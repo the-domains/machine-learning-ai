@@ -38,5 +38,32 @@ navigation:
   - name: Business Architecture
     url: 'http://www.buildventure.net/'
     type: external
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15c88d71e1237e5134fe2442590a2df3a21d0ab4.png">
+    src: >-
+      https://s3-us-west-2.amazonaws.com/the-grid-img/p/15c88d71e1237e5134fe2442590a2df3a21d0ab4.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://s3-us-west-2.amazonaws.com'
+        name: .s3-us-west-2.amazonaws.com
+        favicon: null
+        domain: imgflo.herokuapp.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: >-
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fa2b8b54ecb0b7e2b52768ba79802f93/noop.png?input=https%3A%2F%2Fopenai.com%2Fassets%2Fimages%2Fopengraph%2Fog_image-1cfd63ae6b.png
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
