@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Oct 2017 06:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2017 06:27:27 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Oct 2017 06:38:37 GMT</pubDate>
+        <pubDate>Sun, 08 Oct 2017 06:27:25 GMT</pubDate>
+        <item>
+            <title><![CDATA[Google's AI chief says forget Elon Musk's killer robots, and worry about bias in AI systems instead]]></title>
+            <description><![CDATA[<article><h1>Google&apos;s AI chief says forget Elon Musk&apos;s killer robots, and worry about bias in AI systems instead</h1><p>Getty Google&apos;s AI chief isn&apos;t fretting about super-intelligent killer robots. Instead, John Giannandrea is concerned about the danger that may be lurking inside the machine-learning algorithms used to make millions of decisions every minute.</p><img src="https://cdn.technologyreview.com/i/images/googlesocial.jpg?cx=0&cy=0&cw=2760&ch=1552&sw=1200"></article>]]></description>
+            <link>https://www.technologyreview.com/s/608986/forget-killer-robotsbias-is-the-real-ai-danger/</link>
+            <guid isPermaLink="false">ab5a301a-0b6d-498e-b303-8cfbfce5b75a</guid>
+            <pubDate>Sun, 08 Oct 2017 06:27:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Future of Deep Learning Research]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWTnxE0wjZaM%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWTnxE0wjZaM&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWTnxE0wjZaM%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/</link>
             <guid isPermaLink="false">1203f4c1-ce72-4f8d-9c8a-062d53a78576</guid>
             <pubDate>Tue, 26 Sep 2017 15:44:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI Technology Made for Anyone and Everyone | Microsoft AI]]></title>
-            <description><![CDATA[<article><h1>AI Technology Made for Anyone and Everyone | Microsoft AI</h1><p>Control the power of AI with Microsoft AI products and AI solutions. From business to consumer, Microsoft&apos;s AI platform has developed a product you can use.</p><img src="https://www.microsoft.com/en-us/CMSImages/Hero_First_Frame_Still_2.jpg?version=2cb37980-5c2d-4106-5c42-dcf7765ff9fd"></article>]]></description>
-            <link>https://www.microsoft.com/en-us/ai</link>
-            <guid isPermaLink="false">c584f722-2491-4585-a860-df9015f2d199</guid>
-            <pubDate>Tue, 26 Sep 2017 15:44:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
