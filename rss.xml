@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 Oct 2017 18:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2017 18:44:14 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Oct 2017 18:43:49 GMT</pubDate>
+        <pubDate>Sun, 08 Oct 2017 18:43:50 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Future of Deep Learning Research]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWTnxE0wjZaM%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWTnxE0wjZaM&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWTnxE0wjZaM%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/WTnxE0wjZaM</link>
+            <guid isPermaLink="false">2a9eecb3-d83a-4f54-887c-b3a38a22b3a0</guid>
+            <pubDate>Sun, 08 Oct 2017 18:43:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yann LeCun - How does the brain learn so much so quickly? (CCN 2017)]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FcWzi38-vDbE&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcWzi38-vDbE&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FcWzi38-vDbE%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://experiments.withgoogle.com/ai</link>
             <guid isPermaLink="false">88d51a58-49fb-429b-b012-b7e0e9f97f63</guid>
             <pubDate>Thu, 28 Sep 2017 07:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Guide to Building Your First Decentralized Application]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FgSQXq2_j-mw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgSQXq2_j-mw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgSQXq2_j-mw%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/gSQXq2_j-mw</link>
-            <guid isPermaLink="false">ca0e0673-65b3-4efb-acd7-5991b4022be3</guid>
-            <pubDate>Thu, 28 Sep 2017 07:25:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
