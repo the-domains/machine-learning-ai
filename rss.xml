@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 Oct 2017 06:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2017 18:43:58 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Oct 2017 06:27:25 GMT</pubDate>
+        <pubDate>Sun, 08 Oct 2017 18:43:49 GMT</pubDate>
+        <item>
+            <title><![CDATA[Yann LeCun - How does the brain learn so much so quickly? (CCN 2017)]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FcWzi38-vDbE&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcWzi38-vDbE&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FcWzi38-vDbE%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/cWzi38-vDbE</link>
+            <guid isPermaLink="false">c89a5138-89bb-4910-b63c-05e6cc132b25</guid>
+            <pubDate>Sun, 08 Oct 2017 18:43:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google's AI chief says forget Elon Musk's killer robots, and worry about bias in AI systems instead]]></title>
             <description><![CDATA[<article><h1>Google&apos;s AI chief says forget Elon Musk&apos;s killer robots, and worry about bias in AI systems instead</h1><p>Getty Google&apos;s AI chief isn&apos;t fretting about super-intelligent killer robots. Instead, John Giannandrea is concerned about the danger that may be lurking inside the machine-learning algorithms used to make millions of decisions every minute.</p><img src="https://cdn.technologyreview.com/i/images/googlesocial.jpg?cx=0&cy=0&cw=2760&ch=1552&sw=1200"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/gSQXq2_j-mw</link>
             <guid isPermaLink="false">ca0e0673-65b3-4efb-acd7-5991b4022be3</guid>
             <pubDate>Thu, 28 Sep 2017 07:25:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Theory Cracks Open the Black Box of Deep Learning | Quanta Magazine]]></title>
-            <description><![CDATA[<article><h1>New Theory Cracks Open the Black Box of Deep Learning | Quanta Magazine</h1><p>Even as machines known as &quot;deep neural networks&quot; have learned to converse, drive cars, beat video games and Go champions, dream, paint pictures and help make scientific discoveries, they have also confounded their human creators, who never expected so-called &quot;deep-learning&quot; algorithms to work so well.</p><img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/09/InfoBottleneck_2880x1620-2880x1620.jpg"></article>]]></description>
-            <link>https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/</link>
-            <guid isPermaLink="false">1203f4c1-ce72-4f8d-9c8a-062d53a78576</guid>
-            <pubDate>Tue, 26 Sep 2017 15:44:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
