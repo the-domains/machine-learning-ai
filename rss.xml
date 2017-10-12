@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Oct 2017 20:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2017 05:57:27 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Oct 2017 20:11:05 GMT</pubDate>
+        <pubDate>Thu, 12 Oct 2017 05:57:26 GMT</pubDate>
+        <item>
+            <title><![CDATA[Identifying Traffic Signs with Deep Learning]]></title>
+            <description><![CDATA[<article><h1>Identifying Traffic Signs with Deep Learning</h1><p>This article was written by Harshit Sharma. Successful detection and classification of traffic signs is one of the important problem to be solved if we want self driving cars. Idea is to make automobiles smart enough so as to achieve least human interaction for successful automation.</p><img src="https://cdn-images-1.medium.com/max/1600/1*JvdSYRKD1IEI0sQIaHTU2w.png"></article>]]></description>
+            <link>http://www.datasciencecentral.com/profiles/blogs/identifying-traffic-signs-with-deep-learning?utm_content=buffer98b3d&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">66057cb8-60fc-4eb7-a504-a2a26d522353</guid>
+            <pubDate>Thu, 12 Oct 2017 05:57:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain Consensus Algorithms and Artificial Intelligence]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F5Tr13l0O1Ws%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5Tr13l0O1Ws&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5Tr13l0O1Ws%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/HAC6sqq7_-U</link>
             <guid isPermaLink="false">a8b523ec-8a40-4e29-ba43-7f7aae09bd7c</guid>
             <pubDate>Fri, 29 Sep 2017 17:01:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Guide to Building Your First Decentralized Application]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FgSQXq2_j-mw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgSQXq2_j-mw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgSQXq2_j-mw%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/gSQXq2_j-mw</link>
-            <guid isPermaLink="false">3fdf9066-5724-4e60-811d-068a9bca5506</guid>
-            <pubDate>Fri, 29 Sep 2017 17:01:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
