@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Oct 2017 05:57:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2017 06:02:26 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Oct 2017 05:57:26 GMT</pubDate>
+        <pubDate>Sat, 14 Oct 2017 06:02:01 GMT</pubDate>
+        <item>
+            <title><![CDATA[Colorizing B&W Photos with Neural Networks - FloydHub Blog]]></title>
+            <description><![CDATA[<article><h1>Colorizing B&amp;W Photos with Neural Networks - FloydHub Blog</h1><p>FloydHub - Deep Learning Platform - Cloud GPU</p><img src="https://blog.floydhub.com/static/5427a119e0692f31d72d58fce5c752a6-4f122.png"></article>]]></description>
+            <link>https://blog.floydhub.com/colorizing-b&amp;w-photos-with-neural-networks/</link>
+            <guid isPermaLink="false">ae236ddf-3ba2-40c2-8368-c0b79284fbf9</guid>
+            <pubDate>Sat, 14 Oct 2017 06:01:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Identifying Traffic Signs with Deep Learning]]></title>
             <description><![CDATA[<article><h1>Identifying Traffic Signs with Deep Learning</h1><p>This article was written by Harshit Sharma. Successful detection and classification of traffic signs is one of the important problem to be solved if we want self driving cars. Idea is to make automobiles smart enough so as to achieve least human interaction for successful automation.</p><img src="https://cdn-images-1.medium.com/max/1600/1*JvdSYRKD1IEI0sQIaHTU2w.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.codota.com/</link>
             <guid isPermaLink="false">a3ab104a-baf2-4b74-b62f-bd03b5a2d043</guid>
             <pubDate>Sun, 01 Oct 2017 09:26:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do we Democratize Access to Data?]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHAC6sqq7_-U%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHAC6sqq7_-U&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHAC6sqq7_-U%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/HAC6sqq7_-U</link>
-            <guid isPermaLink="false">a8b523ec-8a40-4e29-ba43-7f7aae09bd7c</guid>
-            <pubDate>Fri, 29 Sep 2017 17:01:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
