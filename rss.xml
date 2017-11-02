@@ -4,9 +4,23 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Nov 2017 08:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2017 06:31:07 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Nov 2017 08:10:08 GMT</pubDate>
+        <pubDate>Thu, 02 Nov 2017 06:31:06 GMT</pubDate>
+        <item>
+            <title><![CDATA[Colaboratory - Google]]></title>
+            <description><![CDATA[<article><h1>Colaboratory - Google</h1><img src="https://www.google.com/images/logos/google_logo_41.png"></article>]]></description>
+            <link>https://research.google.com/colaboratory/unregistered.html</link>
+            <guid isPermaLink="false">2ae0f472-9bb0-46f2-9f63-d7645286f812</guid>
+            <pubDate>Thu, 02 Nov 2017 06:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IBM Can Run an Experimental AI in Memory, Not on Processors]]></title>
+            <description><![CDATA[<article><h1>IBM Can Run an Experimental AI in Memory, Not on Processors</h1><p>Don&apos;t throw out your CPUs just yet, but there may be a new way to run your neural networks. In the regular world of computing-whether you&apos;re running exotic deep learning algorithms or just using Excel-calculations are usually performed on a processor while data is passed back and forth to the memory.</p><img src="https://cdn.technologyreview.com/i/images/37830752576049b3bd4deb.jpg?sw=1200"></article>]]></description>
+            <link>https://www.technologyreview.com/the-download/609205/ibm-can-run-an-experimental-ai-in-memory-not-on-processors/?utm_campaign=Owned+Social&amp;utm_source=Facebook&amp;utm_medium=Owned+Social</link>
+            <guid isPermaLink="false">fca00048-4024-4d9f-af18-9111dda79e82</guid>
+            <pubDate>Wed, 01 Nov 2017 08:10:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Common Sense, Cortex, and CAPTCHA]]></title>
             <description><![CDATA[<article><h1>Common Sense, Cortex, and CAPTCHA</h1><p>Direct link to Science paper here. From the moment we are born, we begin using our senses to build a coherent model of the world. As we grow, we constantly refine our model and access it effortlessly as we go about our lives.</p><img src="https://www.vicarious.com/wp-content/uploads/2017/10/captcha_as.png"></article>]]></description>
@@ -62,20 +76,6 @@
             <link>https://youtu.be/WTnxE0wjZaM</link>
             <guid isPermaLink="false">f538ee4a-d9e1-4d90-b164-95dee7d0d6c7</guid>
             <pubDate>Fri, 06 Oct 2017 06:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchains: How They Work and Why They'll Change the World]]></title>
-            <description><![CDATA[<article><h1>Blockchains: How They Work and Why They&apos;ll Change the World</h1><p>Jump to Sections in this Feature Bitcoin was hatched as an act of defiance. Unleashed in the wake of the Great Recession, the cryptocurrency was touted by its early champions as an antidote to the inequities and corruption of the traditional financial system.</p><img src="https://spectrum.ieee.org/image/Mjk1NzQ0NA.jpeg"></article>]]></description>
-            <link>https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world</link>
-            <guid isPermaLink="false">611610b8-e561-4a6b-a6b2-82958d21a681</guid>
-            <pubDate>Fri, 06 Oct 2017 06:38:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building Safe A.I. - i am trask]]></title>
-            <description><![CDATA[<article><h1>Building Safe A.I. - i am trask</h1><p>A machine learning craftsmanship blog.</p><img src="https://iamtrask.github.io/img/taylor_series.gif"></article>]]></description>
-            <link>http://iamtrask.github.io/2017/03/17/safe-ai/</link>
-            <guid isPermaLink="false">8d4202de-04dd-4cd4-8468-a237d8acff73</guid>
-            <pubDate>Mon, 02 Oct 2017 10:59:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
