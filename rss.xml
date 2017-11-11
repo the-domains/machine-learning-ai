@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Nov 2017 06:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2017 09:26:36 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Nov 2017 06:31:06 GMT</pubDate>
+        <pubDate>Sat, 11 Nov 2017 09:26:35 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Best Artificial Intelligence Books For The AI Obsessive | TDMB Tech]]></title>
+            <description><![CDATA[<article><h1>The Best Artificial Intelligence Books For The AI Obsessive | TDMB Tech</h1><p>As a technology writer, I find myself reading endless articles online every day. Staying up to date with the latest developments across all aspects of technology is integral for anyone working within the industry in general. Additionally, as you may know, I put together a weekly Artificial Intelligence email with the top news every week from the world of AI.</p><img src="http://www.thedigitalmarketingbureau.com/wp-content/uploads/2017/10/fi-All-The-Very-Best-Artificial-Intelligence-Books-For-The-AI-Obsessive-1.png"></article>]]></description>
+            <link>https://www-thedigitalmarketingbureau-com.cdn.ampproject.org/c/www.thedigitalmarketingbureau.com/artificial-intelligence/best-artificial-intelligence-books/amp</link>
+            <guid isPermaLink="false">9ae72ceb-3f67-415d-af0d-e62b74ff4ab7</guid>
+            <pubDate>Sat, 11 Nov 2017 09:26:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Colaboratory - Google]]></title>
             <description><![CDATA[<article><h1>Colaboratory - Google</h1><img src="https://www.google.com/images/logos/google_logo_41.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.technologyreview.com/s/608986/forget-killer-robotsbias-is-the-real-ai-danger/</link>
             <guid isPermaLink="false">ab5a301a-0b6d-498e-b303-8cfbfce5b75a</guid>
             <pubDate>Sun, 08 Oct 2017 06:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Future of Deep Learning Research]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWTnxE0wjZaM%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWTnxE0wjZaM&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWTnxE0wjZaM%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/WTnxE0wjZaM</link>
-            <guid isPermaLink="false">f538ee4a-d9e1-4d90-b164-95dee7d0d6c7</guid>
-            <pubDate>Fri, 06 Oct 2017 06:38:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
