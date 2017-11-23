@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Nov 2017 06:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2017 06:22:31 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Nov 2017 06:22:26 GMT</pubDate>
+        <pubDate>Thu, 23 Nov 2017 06:22:29 GMT</pubDate>
+        <item>
+            <title><![CDATA[YOLO Object Detection]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F4eIBisqx9_g%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4eIBisqx9_g&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4eIBisqx9_g%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/4eIBisqx9_g</link>
+            <guid isPermaLink="false">95b24df2-bcbb-48ff-b529-6ba9a2e32fc7</guid>
+            <pubDate>Thu, 23 Nov 2017 06:22:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Visual Guide to Evolution Strategies | 大トロ]]></title>
             <description><![CDATA[<article><h1>A Visual Guide to Evolution Strategies | &#x5927;&#x30C8;&#x30ED;</h1><p>Survival of the fittest.</p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Rastrigin_function.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/HaulMYiB4EQ</link>
             <guid isPermaLink="false">186ad88d-924a-40a9-9179-04e0df9f067d</guid>
             <pubDate>Mon, 09 Oct 2017 04:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yann LeCun - How does the brain learn so much so quickly? (CCN 2017)]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FcWzi38-vDbE&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcWzi38-vDbE&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FcWzi38-vDbE%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/cWzi38-vDbE</link>
-            <guid isPermaLink="false">c89a5138-89bb-4910-b63c-05e6cc132b25</guid>
-            <pubDate>Sun, 08 Oct 2017 18:43:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
