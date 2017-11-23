@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Nov 2017 09:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2017 06:22:27 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Nov 2017 09:26:35 GMT</pubDate>
+        <pubDate>Thu, 23 Nov 2017 06:22:26 GMT</pubDate>
+        <item>
+            <title><![CDATA[A Visual Guide to Evolution Strategies | 大トロ]]></title>
+            <description><![CDATA[<article><h1>A Visual Guide to Evolution Strategies | &#x5927;&#x30C8;&#x30ED;</h1><p>Survival of the fittest.</p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Rastrigin_function.png"></article>]]></description>
+            <link>http://blog.otoro.net/2017/10/29/visual-evolution-strategies/</link>
+            <guid isPermaLink="false">26252a85-39f8-498f-9726-c0f00b1fde26</guid>
+            <pubDate>Thu, 23 Nov 2017 06:22:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Best Artificial Intelligence Books For The AI Obsessive | TDMB Tech]]></title>
             <description><![CDATA[<article><h1>The Best Artificial Intelligence Books For The AI Obsessive | TDMB Tech</h1><p>As a technology writer, I find myself reading endless articles online every day. Staying up to date with the latest developments across all aspects of technology is integral for anyone working within the industry in general. Additionally, as you may know, I put together a weekly Artificial Intelligence email with the top news every week from the world of AI.</p><img src="http://www.thedigitalmarketingbureau.com/wp-content/uploads/2017/10/fi-All-The-Very-Best-Artificial-Intelligence-Books-For-The-AI-Obsessive-1.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/cWzi38-vDbE</link>
             <guid isPermaLink="false">c89a5138-89bb-4910-b63c-05e6cc132b25</guid>
             <pubDate>Sun, 08 Oct 2017 18:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google's AI chief says forget Elon Musk's killer robots, and worry about bias in AI systems instead]]></title>
-            <description><![CDATA[<article><h1>Google&apos;s AI chief says forget Elon Musk&apos;s killer robots, and worry about bias in AI systems instead</h1><p>Getty Google&apos;s AI chief isn&apos;t fretting about super-intelligent killer robots. Instead, John Giannandrea is concerned about the danger that may be lurking inside the machine-learning algorithms used to make millions of decisions every minute.</p><img src="https://cdn.technologyreview.com/i/images/googlesocial.jpg?cx=0&cy=0&cw=2760&ch=1552&sw=1200"></article>]]></description>
-            <link>https://www.technologyreview.com/s/608986/forget-killer-robotsbias-is-the-real-ai-danger/</link>
-            <guid isPermaLink="false">ab5a301a-0b6d-498e-b303-8cfbfce5b75a</guid>
-            <pubDate>Sun, 08 Oct 2017 06:27:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
