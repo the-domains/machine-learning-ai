@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Nov 2017 13:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2017 06:07:27 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Nov 2017 13:38:05 GMT</pubDate>
+        <pubDate>Wed, 06 Dec 2017 06:07:26 GMT</pubDate>
+        <item>
+            <title><![CDATA[The AI Guru Behind Amazon, Uber, and Unity Explains What AI Really Is]]></title>
+            <description><![CDATA[<article><h1>The AI Guru Behind Amazon, Uber, and Unity Explains What AI Really Is</h1><p>If you&apos;ve ever gotten product recommendations on Amazon, you&apos;ve seen Danny Lange&apos;s handiwork. The same goes for Uber&apos;s AI that books you a ride. The Danish computer scientist helped build the machine learning platforms that both companies use throughout their operations, from the engineering to the marketing departments.</p><img src="https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2017/11/p-1-the-ai-guru-behind-amazon-uber-and-unity-explains-what-ai-isand-isnand8217t.jpg"></article>]]></description>
+            <link>https://www.fastcompany.com/40491906/danny-lange-interview-what-ai-is-and-isnt?utm_content=bufferab4eb&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">4f301450-dfeb-4c92-bb2f-0d5efadf15a2</guid>
+            <pubDate>Wed, 06 Dec 2017 06:07:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[YOLO Object Detection]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F4eIBisqx9_g%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4eIBisqx9_g&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4eIBisqx9_g%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/5Tr13l0O1Ws</link>
             <guid isPermaLink="false">7446b1cb-71ca-4e35-8b18-87f2a08570ba</guid>
             <pubDate>Tue, 10 Oct 2017 20:11:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenMined introduction]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHaulMYiB4EQ%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHaulMYiB4EQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHaulMYiB4EQ%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/HaulMYiB4EQ</link>
-            <guid isPermaLink="false">186ad88d-924a-40a9-9179-04e0df9f067d</guid>
-            <pubDate>Mon, 09 Oct 2017 04:24:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
