@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Dec 2017 06:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2017 06:07:37 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 Dec 2017 06:07:29 GMT</pubDate>
+        <pubDate>Wed, 06 Dec 2017 06:07:35 GMT</pubDate>
+        <item>
+            <title><![CDATA[sachinruk/deepschool.io]]></title>
+            <description><![CDATA[<article><h1>sachinruk/deepschool.io</h1><p>deepschool.io - Deep Learning tutorials in jupyter notebooks.</p><img src="https://camo.githubusercontent.com/4eb3497ad44c15d1d2a4fccb71175dcf2fa4e08a/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f732f356b756262673462767a306964776e2f686967685f7265736f6c7574696f6e2e6a7067"></article>]]></description>
+            <link>https://github.com/sachinruk/deepschool.io</link>
+            <guid isPermaLink="false">ba144a6c-0dac-48dd-9bb3-6ca715b64455</guid>
+            <pubDate>Wed, 06 Dec 2017 06:07:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The AI Guru Behind Amazon, Uber, and Unity Explains What AI Really Is]]></title>
             <description><![CDATA[<article><h1>The AI Guru Behind Amazon, Uber, and Unity Explains What AI Really Is</h1><p>If you&apos;ve ever gotten product recommendations on Amazon, you&apos;ve seen Danny Lange&apos;s handiwork. The same goes for Uber&apos;s AI that books you a ride. The Danish computer scientist helped build the machine learning platforms that both companies use throughout their operations, from the engineering to the marketing departments.</p><img src="https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2017/11/p-1-the-ai-guru-behind-amazon-uber-and-unity-explains-what-ai-isand-isnand8217t.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.datasciencecentral.com/profiles/blogs/identifying-traffic-signs-with-deep-learning?utm_content=buffer98b3d&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">66057cb8-60fc-4eb7-a504-a2a26d522353</guid>
             <pubDate>Thu, 12 Oct 2017 05:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Consensus Algorithms and Artificial Intelligence]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F5Tr13l0O1Ws%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5Tr13l0O1Ws&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5Tr13l0O1Ws%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/5Tr13l0O1Ws</link>
-            <guid isPermaLink="false">7446b1cb-71ca-4e35-8b18-87f2a08570ba</guid>
-            <pubDate>Tue, 10 Oct 2017 20:11:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
