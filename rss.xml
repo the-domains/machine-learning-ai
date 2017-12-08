@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Dec 2017 06:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2017 07:19:56 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 Dec 2017 06:07:35 GMT</pubDate>
+        <pubDate>Fri, 08 Dec 2017 07:19:55 GMT</pubDate>
+        <item>
+            <title><![CDATA[Quantum Computing Explained]]></title>
+            <description><![CDATA[<article><h1>Quantum Computing Explained</h1><p>In 1982, a scientific paper - &apos;Simulating Physics with Computers&apos; written by the f...</p><img src="https://s3-us-west-2.amazonaws.com/tile-s3-static-bucket/prod/media/user_uploads/user_122/project_coverimages/1510996379_78_quantumComputingExplained.png"></article>]]></description>
+            <link>http://www.clerro.com/mobile/guide/580/quantum-computing-explained</link>
+            <guid isPermaLink="false">9cb34a22-908d-4006-bc8e-762373632ede</guid>
+            <pubDate>Fri, 08 Dec 2017 07:19:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[sachinruk/deepschool.io]]></title>
             <description><![CDATA[<article><h1>sachinruk/deepschool.io</h1><p>deepschool.io - Deep Learning tutorials in jupyter notebooks.</p><img src="https://camo.githubusercontent.com/4eb3497ad44c15d1d2a4fccb71175dcf2fa4e08a/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f732f356b756262673462767a306964776e2f686967685f7265736f6c7574696f6e2e6a7067"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://blog.floydhub.com/colorizing-b&amp;w-photos-with-neural-networks/</link>
             <guid isPermaLink="false">ae236ddf-3ba2-40c2-8368-c0b79284fbf9</guid>
             <pubDate>Sat, 14 Oct 2017 06:01:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Identifying Traffic Signs with Deep Learning]]></title>
-            <description><![CDATA[<article><h1>Identifying Traffic Signs with Deep Learning</h1><p>This article was written by Harshit Sharma. Successful detection and classification of traffic signs is one of the important problem to be solved if we want self driving cars. Idea is to make automobiles smart enough so as to achieve least human interaction for successful automation.</p><img src="https://cdn-images-1.medium.com/max/1600/1*JvdSYRKD1IEI0sQIaHTU2w.png"></article>]]></description>
-            <link>http://www.datasciencecentral.com/profiles/blogs/identifying-traffic-signs-with-deep-learning?utm_content=buffer98b3d&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">66057cb8-60fc-4eb7-a504-a2a26d522353</guid>
-            <pubDate>Thu, 12 Oct 2017 05:57:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
