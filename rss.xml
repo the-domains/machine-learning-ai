@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Dec 2017 18:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2017 18:58:50 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 Dec 2017 18:13:34 GMT</pubDate>
+        <pubDate>Wed, 13 Dec 2017 18:58:48 GMT</pubDate>
+        <item>
+            <title><![CDATA[Jason's Machine Learning 101]]></title>
+            <description><![CDATA[<article><h1>Jason&apos;s Machine Learning 101</h1><p>Jason Mayes Senior Creative Engineer, Google Machine Learning 101 Feel free to share this deck with others who are learning! Send me feedback here. Dec 2017 Welcome! If you are reading the notes there are a few extra snippets down here from time to time. But more for my own thoughts, feel free to...</p><img src="https://lh4.googleusercontent.com/ozuBVFPrW-EC2HBwS72JNw47rlzmyxtvMuXdA3u2dF0asuNjLNITS6oBTZPVbd6iHmlXCg=w1200-h630-p"></article>]]></description>
+            <link>https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent?slide=id.g183f28bdc3_0_90&amp;_utm_source=1-2-2</link>
+            <guid isPermaLink="false">a4799561-72be-418e-8ab5-d7bf7ca8810d</guid>
+            <pubDate>Wed, 13 Dec 2017 18:58:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Quantum Computing Explained]]></title>
             <description><![CDATA[<article><h1>Quantum Computing Explained</h1><p>In 1982, a scientific paper - &apos;Simulating Physics with Computers&apos; written by the f...</p><img src="https://s3-us-west-2.amazonaws.com/tile-s3-static-bucket/prod/media/user_uploads/user_122/project_coverimages/1510996379_78_quantumComputingExplained.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.vicarious.com/2017/10/26/common-sense-cortex-and-captcha/</link>
             <guid isPermaLink="false">49b0b9fc-f587-4229-8cfb-45fe4e979888</guid>
             <pubDate>Wed, 01 Nov 2017 08:10:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colorizing B&W Photos with Neural Networks - FloydHub Blog]]></title>
-            <description><![CDATA[<article><h1>Colorizing B&amp;W Photos with Neural Networks - FloydHub Blog</h1><p>FloydHub - Deep Learning Platform - Cloud GPU</p><img src="https://blog.floydhub.com/static/5427a119e0692f31d72d58fce5c752a6-4f122.png"></article>]]></description>
-            <link>https://blog.floydhub.com/colorizing-b&amp;w-photos-with-neural-networks/</link>
-            <guid isPermaLink="false">ae236ddf-3ba2-40c2-8368-c0b79284fbf9</guid>
-            <pubDate>Sat, 14 Oct 2017 06:01:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
