@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Dec 2017 18:58:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2017 18:58:52 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 Dec 2017 18:58:48 GMT</pubDate>
+        <pubDate>Wed, 13 Dec 2017 18:58:51 GMT</pubDate>
+        <item>
+            <title><![CDATA[AI 100: The Artificial Intelligence Startups Redefining Industries]]></title>
+            <description><![CDATA[<article><h1>AI 100: The Artificial Intelligence Startups Redefining Industries</h1><p>The 100 startups on our list have raised $11.7B in aggregate funding across 367 deals since 2012. Today, CB Insights unveiled the second annual AI 100 - a list of 100 of the most promising private companies applying artificial intelligence algorithms across 25+ industries, from healthcare to cybersecurity - at the A-Ha!</p><img src="https://s3.amazonaws.com/cbi-research-portal-uploads/2017/12/12032232/quick_facts_AI-100-2018.png"></article>]]></description>
+            <link>https://www.cbinsights.com/research/artificial-intelligence-top-startups/?utm_source=CB+Insights+Newsletter&amp;utm_campaign=a4d41a607e-TuesNL_11_28_2017&amp;utm_medium=email&amp;utm_term=0_9dc0513989-a4d41a607e-88895813</link>
+            <guid isPermaLink="false">4e6da58e-5473-482b-ae07-839ffd369188</guid>
+            <pubDate>Wed, 13 Dec 2017 18:58:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jason's Machine Learning 101]]></title>
             <description><![CDATA[<article><h1>Jason&apos;s Machine Learning 101</h1><p>Jason Mayes Senior Creative Engineer, Google Machine Learning 101 Feel free to share this deck with others who are learning! Send me feedback here. Dec 2017 Welcome! If you are reading the notes there are a few extra snippets down here from time to time. But more for my own thoughts, feel free to...</p><img src="https://lh4.googleusercontent.com/ozuBVFPrW-EC2HBwS72JNw47rlzmyxtvMuXdA3u2dF0asuNjLNITS6oBTZPVbd6iHmlXCg=w1200-h630-p"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.technologyreview.com/the-download/609205/ibm-can-run-an-experimental-ai-in-memory-not-on-processors/?utm_campaign=Owned+Social&amp;utm_source=Facebook&amp;utm_medium=Owned+Social</link>
             <guid isPermaLink="false">fca00048-4024-4d9f-af18-9111dda79e82</guid>
             <pubDate>Wed, 01 Nov 2017 08:10:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Common Sense, Cortex, and CAPTCHA]]></title>
-            <description><![CDATA[<article><h1>Common Sense, Cortex, and CAPTCHA</h1><p>Direct link to Science paper here. From the moment we are born, we begin using our senses to build a coherent model of the world. As we grow, we constantly refine our model and access it effortlessly as we go about our lives.</p><img src="https://www.vicarious.com/wp-content/uploads/2017/10/captcha_as.png"></article>]]></description>
-            <link>https://www.vicarious.com/2017/10/26/common-sense-cortex-and-captcha/</link>
-            <guid isPermaLink="false">49b0b9fc-f587-4229-8cfb-45fe4e979888</guid>
-            <pubDate>Wed, 01 Nov 2017 08:10:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
