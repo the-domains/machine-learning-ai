@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Dec 2017 05:30:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2017 05:30:39 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 Dec 2017 05:30:35 GMT</pubDate>
+        <pubDate>Mon, 18 Dec 2017 05:30:37 GMT</pubDate>
+        <item>
+            <title><![CDATA[Lecture on Decentralized AI by Gene Kogan]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAcKMSLn_9Yg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAcKMSLn_9Yg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAcKMSLn_9Yg%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/AcKMSLn_9Yg</link>
+            <guid isPermaLink="false">2d3619b5-806d-43de-a1be-6dc92ab64bab</guid>
+            <pubDate>Mon, 18 Dec 2017 05:30:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google has released an AI tool that makes sense of your genome]]></title>
             <description><![CDATA[<article><h1>Google has released an AI tool that makes sense of your genome</h1><p>Brendan Monroe Almost 15 years after scientists first sequenced the human genome, making sense of the enormous amount of data that encodes human life remains a formidable challenge. But it is also precisely the sort of problem that machine learning excels at.</p><img src="https://cdn.technologyreview.com/i/images/aiandgenomics.jpg?cx=0&cy=0&cw=2760&ch=1552&sw=1200"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www-thedigitalmarketingbureau-com.cdn.ampproject.org/c/www.thedigitalmarketingbureau.com/artificial-intelligence/best-artificial-intelligence-books/amp</link>
             <guid isPermaLink="false">9ae72ceb-3f67-415d-af0d-e62b74ff4ab7</guid>
             <pubDate>Sat, 11 Nov 2017 09:26:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colaboratory - Google]]></title>
-            <description><![CDATA[<article><h1>Colaboratory - Google</h1><img src="https://www.google.com/images/logos/google_logo_41.png"></article>]]></description>
-            <link>https://research.google.com/colaboratory/unregistered.html</link>
-            <guid isPermaLink="false">2ae0f472-9bb0-46f2-9f63-d7645286f812</guid>
-            <pubDate>Thu, 02 Nov 2017 06:31:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
