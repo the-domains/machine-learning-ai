@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Dec 2017 18:58:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2017 05:30:36 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 Dec 2017 18:58:51 GMT</pubDate>
+        <pubDate>Mon, 18 Dec 2017 05:30:35 GMT</pubDate>
+        <item>
+            <title><![CDATA[Google has released an AI tool that makes sense of your genome]]></title>
+            <description><![CDATA[<article><h1>Google has released an AI tool that makes sense of your genome</h1><p>Brendan Monroe Almost 15 years after scientists first sequenced the human genome, making sense of the enormous amount of data that encodes human life remains a formidable challenge. But it is also precisely the sort of problem that machine learning excels at.</p><img src="https://cdn.technologyreview.com/i/images/aiandgenomics.jpg?cx=0&cy=0&cw=2760&ch=1552&sw=1200"></article>]]></description>
+            <link>https://www.technologyreview.com/s/609647/google-has-released-an-ai-tool-that-makes-sense-of-your-genome/</link>
+            <guid isPermaLink="false">5b2f458b-710b-4d33-a503-6be259db0cc5</guid>
+            <pubDate>Mon, 18 Dec 2017 05:30:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AI 100: The Artificial Intelligence Startups Redefining Industries]]></title>
             <description><![CDATA[<article><h1>AI 100: The Artificial Intelligence Startups Redefining Industries</h1><p>The 100 startups on our list have raised $11.7B in aggregate funding across 367 deals since 2012. Today, CB Insights unveiled the second annual AI 100 - a list of 100 of the most promising private companies applying artificial intelligence algorithms across 25+ industries, from healthcare to cybersecurity - at the A-Ha!</p><img src="https://s3.amazonaws.com/cbi-research-portal-uploads/2017/12/12032232/quick_facts_AI-100-2018.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://research.google.com/colaboratory/unregistered.html</link>
             <guid isPermaLink="false">2ae0f472-9bb0-46f2-9f63-d7645286f812</guid>
             <pubDate>Thu, 02 Nov 2017 06:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM Can Run an Experimental AI in Memory, Not on Processors]]></title>
-            <description><![CDATA[<article><h1>IBM Can Run an Experimental AI in Memory, Not on Processors</h1><p>Don&apos;t throw out your CPUs just yet, but there may be a new way to run your neural networks. In the regular world of computing-whether you&apos;re running exotic deep learning algorithms or just using Excel-calculations are usually performed on a processor while data is passed back and forth to the memory.</p><img src="https://cdn.technologyreview.com/i/images/37830752576049b3bd4deb.jpg?sw=1200"></article>]]></description>
-            <link>https://www.technologyreview.com/the-download/609205/ibm-can-run-an-experimental-ai-in-memory-not-on-processors/?utm_campaign=Owned+Social&amp;utm_source=Facebook&amp;utm_medium=Owned+Social</link>
-            <guid isPermaLink="false">fca00048-4024-4d9f-af18-9111dda79e82</guid>
-            <pubDate>Wed, 01 Nov 2017 08:10:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
