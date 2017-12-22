@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Dec 2017 07:31:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2017 07:31:08 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 Dec 2017 07:31:04 GMT</pubDate>
+        <pubDate>Fri, 22 Dec 2017 07:31:07 GMT</pubDate>
+        <item>
+            <title><![CDATA[OpenML]]></title>
+            <description><![CDATA[<article><h1>OpenML</h1><p>OpenML: exploring machine learning better, together. An open science platform for machine learning.</p><img src="https://www.openml.org/img/expdblogo2.png"></article>]]></description>
+            <link>https://www.openml.org/</link>
+            <guid isPermaLink="false">e4e12ac4-74bb-4018-97ea-dbaa3a86910b</guid>
+            <pubDate>Fri, 22 Dec 2017 07:31:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Business of Artificial Intelligence]]></title>
             <description><![CDATA[<article><h1>The Business of Artificial Intelligence</h1><p>For more than 250 years the fundamental drivers of economic growth have been technological innovations. The most important of these are what economists call general-purpose technologies - a category that includes the steam engine, electricity, and the internal combustion engine. Each one catalyzed waves of complementary innovations and opportunities.</p><img src="https://hbr.org/resources/images/article_assets/2017/07/AI-hero-premium.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/4eIBisqx9_g</link>
             <guid isPermaLink="false">95b24df2-bcbb-48ff-b529-6ba9a2e32fc7</guid>
             <pubDate>Thu, 23 Nov 2017 06:22:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Visual Guide to Evolution Strategies | 大トロ]]></title>
-            <description><![CDATA[<article><h1>A Visual Guide to Evolution Strategies | &#x5927;&#x30C8;&#x30ED;</h1><p>Survival of the fittest.</p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Rastrigin_function.png"></article>]]></description>
-            <link>http://blog.otoro.net/2017/10/29/visual-evolution-strategies/</link>
-            <guid isPermaLink="false">26252a85-39f8-498f-9726-c0f00b1fde26</guid>
-            <pubDate>Thu, 23 Nov 2017 06:22:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
