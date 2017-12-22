@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Dec 2017 05:30:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2017 07:31:05 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 Dec 2017 05:30:37 GMT</pubDate>
+        <pubDate>Fri, 22 Dec 2017 07:31:04 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Business of Artificial Intelligence]]></title>
+            <description><![CDATA[<article><h1>The Business of Artificial Intelligence</h1><p>For more than 250 years the fundamental drivers of economic growth have been technological innovations. The most important of these are what economists call general-purpose technologies - a category that includes the steam engine, electricity, and the internal combustion engine. Each one catalyzed waves of complementary innovations and opportunities.</p><img src="https://hbr.org/resources/images/article_assets/2017/07/AI-hero-premium.jpg"></article>]]></description>
+            <link>https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence</link>
+            <guid isPermaLink="false">2f57b1e5-8add-4aa9-aec3-cfa64448e94c</guid>
+            <pubDate>Fri, 22 Dec 2017 07:31:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lecture on Decentralized AI by Gene Kogan]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAcKMSLn_9Yg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAcKMSLn_9Yg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAcKMSLn_9Yg%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.otoro.net/2017/10/29/visual-evolution-strategies/</link>
             <guid isPermaLink="false">26252a85-39f8-498f-9726-c0f00b1fde26</guid>
             <pubDate>Thu, 23 Nov 2017 06:22:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Best Artificial Intelligence Books For The AI Obsessive | TDMB Tech]]></title>
-            <description><![CDATA[<article><h1>The Best Artificial Intelligence Books For The AI Obsessive | TDMB Tech</h1><p>As a technology writer, I find myself reading endless articles online every day. Staying up to date with the latest developments across all aspects of technology is integral for anyone working within the industry in general. Additionally, as you may know, I put together a weekly Artificial Intelligence email with the top news every week from the world of AI.</p><img src="http://www.thedigitalmarketingbureau.com/wp-content/uploads/2017/10/fi-All-The-Very-Best-Artificial-Intelligence-Books-For-The-AI-Obsessive-1.png"></article>]]></description>
-            <link>https://www-thedigitalmarketingbureau-com.cdn.ampproject.org/c/www.thedigitalmarketingbureau.com/artificial-intelligence/best-artificial-intelligence-books/amp</link>
-            <guid isPermaLink="false">9ae72ceb-3f67-415d-af0d-e62b74ff4ab7</guid>
-            <pubDate>Sat, 11 Nov 2017 09:26:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
