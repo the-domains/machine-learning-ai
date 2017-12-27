@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Dec 2017 07:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2017 06:38:32 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 Dec 2017 07:31:07 GMT</pubDate>
+        <pubDate>Wed, 27 Dec 2017 06:38:31 GMT</pubDate>
+        <item>
+            <title><![CDATA[Machines for Machine Intelligence - Machine Intelligence Garage]]></title>
+            <description><![CDATA[<article><h1>Machines for Machine Intelligence - Machine Intelligence Garage</h1><p>Machine Intelligence Garage provides access to computation power and expertise, helping develop and build machine learning and AI solutions.</p><img src="https://www.migarage.ai/wp-content/uploads/2017/11/hero-application-overview.jpg"></article>]]></description>
+            <link>https://www.migarage.ai/?utm_content=buffer38407&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">4f82af6b-fddd-45db-ae66-2dc05958855c</guid>
+            <pubDate>Wed, 27 Dec 2017 06:38:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OpenML]]></title>
             <description><![CDATA[<article><h1>OpenML</h1><p>OpenML: exploring machine learning better, together. An open science platform for machine learning.</p><img src="https://www.openml.org/img/expdblogo2.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.fastcompany.com/40491906/danny-lange-interview-what-ai-is-and-isnt?utm_content=bufferab4eb&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">4f301450-dfeb-4c92-bb2f-0d5efadf15a2</guid>
             <pubDate>Wed, 06 Dec 2017 06:07:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[YOLO Object Detection]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F4eIBisqx9_g%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4eIBisqx9_g&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4eIBisqx9_g%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/4eIBisqx9_g</link>
-            <guid isPermaLink="false">95b24df2-bcbb-48ff-b529-6ba9a2e32fc7</guid>
-            <pubDate>Thu, 23 Nov 2017 06:22:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
