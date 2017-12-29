@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Dec 2017 06:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2017 06:12:21 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 Dec 2017 06:38:31 GMT</pubDate>
+        <pubDate>Fri, 29 Dec 2017 06:12:20 GMT</pubDate>
+        <item>
+            <title><![CDATA[SLAC Dataset]]></title>
+            <description><![CDATA[<article><h1>SLAC Dataset</h1><p>This project presents a novel video dataset, named SLAC (Sparsely Labeled ACtions), for action recognition and localization. It consists of over 520K untrimmed videos and 1.75M clip annotations spanning 200 action categories. Using our proposed framework, annotating a video clip takes merely 8.8 seconds on average, representing a saving in labeling time of over 95% compared to the traditional procedure of manual trimming and localization of actions.</p><img src="http://www.mit.edu/~hangzhao/images/profile2.jpg"></article>]]></description>
+            <link>http://slac.csail.mit.edu/</link>
+            <guid isPermaLink="false">dc5659c2-4ab6-4583-bb50-7299caab6b72</guid>
+            <pubDate>Fri, 29 Dec 2017 06:12:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Machines for Machine Intelligence - Machine Intelligence Garage]]></title>
             <description><![CDATA[<article><h1>Machines for Machine Intelligence - Machine Intelligence Garage</h1><p>Machine Intelligence Garage provides access to computation power and expertise, helping develop and build machine learning and AI solutions.</p><img src="https://www.migarage.ai/wp-content/uploads/2017/11/hero-application-overview.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://github.com/sachinruk/deepschool.io</link>
             <guid isPermaLink="false">ba144a6c-0dac-48dd-9bb3-6ca715b64455</guid>
             <pubDate>Wed, 06 Dec 2017 06:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The AI Guru Behind Amazon, Uber, and Unity Explains What AI Really Is]]></title>
-            <description><![CDATA[<article><h1>The AI Guru Behind Amazon, Uber, and Unity Explains What AI Really Is</h1><p>If you&apos;ve ever gotten product recommendations on Amazon, you&apos;ve seen Danny Lange&apos;s handiwork. The same goes for Uber&apos;s AI that books you a ride. The Danish computer scientist helped build the machine learning platforms that both companies use throughout their operations, from the engineering to the marketing departments.</p><img src="https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2017/11/p-1-the-ai-guru-behind-amazon-uber-and-unity-explains-what-ai-isand-isnand8217t.jpg"></article>]]></description>
-            <link>https://www.fastcompany.com/40491906/danny-lange-interview-what-ai-is-and-isnt?utm_content=bufferab4eb&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">4f301450-dfeb-4c92-bb2f-0d5efadf15a2</guid>
-            <pubDate>Wed, 06 Dec 2017 06:07:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
