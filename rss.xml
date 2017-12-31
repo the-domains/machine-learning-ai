@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Dec 2017 06:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2017 11:07:50 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 Dec 2017 06:12:20 GMT</pubDate>
+        <pubDate>Sun, 31 Dec 2017 11:07:49 GMT</pubDate>
+        <item>
+            <title><![CDATA[Deep Learning 2: Lesson 1]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FIPBSB1HLNLo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIPBSB1HLNLo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIPBSB1HLNLo%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/IPBSB1HLNLo</link>
+            <guid isPermaLink="false">cf8d7fc5-e307-42c5-8122-97e6a6da31db</guid>
+            <pubDate>Sun, 31 Dec 2017 11:07:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SLAC Dataset]]></title>
             <description><![CDATA[<article><h1>SLAC Dataset</h1><p>This project presents a novel video dataset, named SLAC (Sparsely Labeled ACtions), for action recognition and localization. It consists of over 520K untrimmed videos and 1.75M clip annotations spanning 200 action categories. Using our proposed framework, annotating a video clip takes merely 8.8 seconds on average, representing a saving in labeling time of over 95% compared to the traditional procedure of manual trimming and localization of actions.</p><img src="http://www.mit.edu/~hangzhao/images/profile2.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.clerro.com/mobile/guide/580/quantum-computing-explained</link>
             <guid isPermaLink="false">9cb34a22-908d-4006-bc8e-762373632ede</guid>
             <pubDate>Fri, 08 Dec 2017 07:19:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sachinruk/deepschool.io]]></title>
-            <description><![CDATA[<article><h1>sachinruk/deepschool.io</h1><p>deepschool.io - Deep Learning tutorials in jupyter notebooks.</p><img src="https://camo.githubusercontent.com/4eb3497ad44c15d1d2a4fccb71175dcf2fa4e08a/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f732f356b756262673462767a306964776e2f686967685f7265736f6c7574696f6e2e6a7067"></article>]]></description>
-            <link>https://github.com/sachinruk/deepschool.io</link>
-            <guid isPermaLink="false">ba144a6c-0dac-48dd-9bb3-6ca715b64455</guid>
-            <pubDate>Wed, 06 Dec 2017 06:07:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
