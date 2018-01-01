@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Dec 2017 11:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2018 13:51:13 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 Dec 2017 11:07:49 GMT</pubDate>
+        <pubDate>Mon, 01 Jan 2018 13:51:12 GMT</pubDate>
+        <item>
+            <title><![CDATA[Lesson 2: Deep Learning v2]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJNxcznsrRb8%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJNxcznsrRb8&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJNxcznsrRb8%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/JNxcznsrRb8</link>
+            <guid isPermaLink="false">75ede1da-2650-40e2-ac35-6253f5a8122d</guid>
+            <pubDate>Mon, 01 Jan 2018 13:51:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deep Learning 2: Lesson 1]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FIPBSB1HLNLo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIPBSB1HLNLo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIPBSB1HLNLo%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent?slide=id.g183f28bdc3_0_90&amp;_utm_source=1-2-2</link>
             <guid isPermaLink="false">a4799561-72be-418e-8ab5-d7bf7ca8810d</guid>
             <pubDate>Wed, 13 Dec 2017 18:58:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quantum Computing Explained]]></title>
-            <description><![CDATA[<article><h1>Quantum Computing Explained</h1><p>In 1982, a scientific paper - &apos;Simulating Physics with Computers&apos; written by the f...</p><img src="https://s3-us-west-2.amazonaws.com/tile-s3-static-bucket/prod/media/user_uploads/user_122/project_coverimages/1510996379_78_quantumComputingExplained.png"></article>]]></description>
-            <link>http://www.clerro.com/mobile/guide/580/quantum-computing-explained</link>
-            <guid isPermaLink="false">9cb34a22-908d-4006-bc8e-762373632ede</guid>
-            <pubDate>Fri, 08 Dec 2017 07:19:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
