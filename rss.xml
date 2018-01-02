@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Jan 2018 13:51:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2018 08:58:47 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jan 2018 13:51:12 GMT</pubDate>
+        <pubDate>Tue, 02 Jan 2018 08:58:43 GMT</pubDate>
+        <item>
+            <title><![CDATA[AI and Deep Learning in 2017 - A Year in Review]]></title>
+            <description><![CDATA[<article><h1>AI and Deep Learning in 2017 - A Year in Review</h1><p>The year is coming to an end. I did not write nearly as much as I had planned to. But I&apos;m hoping to change that next year, with more tutorials around Reinforcement Learning, Evolution, and Bayesian Methods coming to WildML! And what better way to start than with a summary of all the amazing things that happened in 2017?</p><img src="http://d3kbpzbmcynnmx.cloudfront.net/wp-content/uploads/2017/12/Screen-Shot-2017-12-31-at-10.20.54-PM.png"></article>]]></description>
+            <link>http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/</link>
+            <guid isPermaLink="false">8dd222f2-7301-46a4-81c1-48f92cf6bf55</guid>
+            <pubDate>Tue, 02 Jan 2018 08:58:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lesson 2: Deep Learning v2]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJNxcznsrRb8%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJNxcznsrRb8&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJNxcznsrRb8%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.cbinsights.com/research/artificial-intelligence-top-startups/?utm_source=CB+Insights+Newsletter&amp;utm_campaign=a4d41a607e-TuesNL_11_28_2017&amp;utm_medium=email&amp;utm_term=0_9dc0513989-a4d41a607e-88895813</link>
             <guid isPermaLink="false">4e6da58e-5473-482b-ae07-839ffd369188</guid>
             <pubDate>Wed, 13 Dec 2017 18:58:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jason's Machine Learning 101]]></title>
-            <description><![CDATA[<article><h1>Jason&apos;s Machine Learning 101</h1><p>Jason Mayes Senior Creative Engineer, Google Machine Learning 101 Feel free to share this deck with others who are learning! Send me feedback here. Dec 2017 Welcome! If you are reading the notes there are a few extra snippets down here from time to time. But more for my own thoughts, feel free to...</p><img src="https://lh4.googleusercontent.com/ozuBVFPrW-EC2HBwS72JNw47rlzmyxtvMuXdA3u2dF0asuNjLNITS6oBTZPVbd6iHmlXCg=w1200-h630-p"></article>]]></description>
-            <link>https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent?slide=id.g183f28bdc3_0_90&amp;_utm_source=1-2-2</link>
-            <guid isPermaLink="false">a4799561-72be-418e-8ab5-d7bf7ca8810d</guid>
-            <pubDate>Wed, 13 Dec 2017 18:58:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
