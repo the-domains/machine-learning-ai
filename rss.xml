@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Jan 2018 17:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2018 17:54:29 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 03 Jan 2018 17:54:15 GMT</pubDate>
+        <pubDate>Wed, 03 Jan 2018 17:54:26 GMT</pubDate>
+        <item>
+            <title><![CDATA[An Introduction to LSTMs in Tensorflow]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fl4X-kZjl1gs%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dl4X-kZjl1gs&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fl4X-kZjl1gs%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/l4X-kZjl1gs</link>
+            <guid isPermaLink="false">e008d32e-95d1-4332-ae42-8a976d9a2e93</guid>
+            <pubDate>Wed, 03 Jan 2018 17:54:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[LSTM Networks - The Math of Intelligence (Week 8)]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F9zhrxE5PQgY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9zhrxE5PQgY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9zhrxE5PQgY%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.openml.org/</link>
             <guid isPermaLink="false">e4e12ac4-74bb-4018-97ea-dbaa3a86910b</guid>
             <pubDate>Fri, 22 Dec 2017 07:31:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Business of Artificial Intelligence]]></title>
-            <description><![CDATA[<article><h1>The Business of Artificial Intelligence</h1><p>For more than 250 years the fundamental drivers of economic growth have been technological innovations. The most important of these are what economists call general-purpose technologies - a category that includes the steam engine, electricity, and the internal combustion engine. Each one catalyzed waves of complementary innovations and opportunities.</p><img src="https://hbr.org/resources/images/article_assets/2017/07/AI-hero-premium.jpg"></article>]]></description>
-            <link>https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence</link>
-            <guid isPermaLink="false">2f57b1e5-8add-4aa9-aec3-cfa64448e94c</guid>
-            <pubDate>Fri, 22 Dec 2017 07:31:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
