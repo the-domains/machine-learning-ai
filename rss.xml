@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Jan 2018 17:54:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2018 17:54:17 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 03 Jan 2018 17:54:12 GMT</pubDate>
+        <pubDate>Wed, 03 Jan 2018 17:54:15 GMT</pubDate>
+        <item>
+            <title><![CDATA[LSTM Networks - The Math of Intelligence (Week 8)]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F9zhrxE5PQgY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9zhrxE5PQgY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9zhrxE5PQgY%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/9zhrxE5PQgY</link>
+            <guid isPermaLink="false">29a6dad2-eb3c-4ba5-bc0a-21f5c8ac5f5e</guid>
+            <pubDate>Wed, 03 Jan 2018 17:54:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Exploring LSTMs]]></title>
             <description><![CDATA[<article><h1>Exploring LSTMs</h1><p>It turns out LSTMs are a fairly simple extension to neural networks, and they&apos;re behind a lot of the amazing achievements deep learning has made in the past few years. So I&apos;ll try to present them as intuitively as possible - in such a way that you could have discovered them yourself.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence</link>
             <guid isPermaLink="false">2f57b1e5-8add-4aa9-aec3-cfa64448e94c</guid>
             <pubDate>Fri, 22 Dec 2017 07:31:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lecture on Decentralized AI by Gene Kogan]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAcKMSLn_9Yg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAcKMSLn_9Yg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAcKMSLn_9Yg%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/AcKMSLn_9Yg</link>
-            <guid isPermaLink="false">2d3619b5-806d-43de-a1be-6dc92ab64bab</guid>
-            <pubDate>Mon, 18 Dec 2017 05:30:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
