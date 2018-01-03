@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Jan 2018 08:58:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2018 16:18:37 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Jan 2018 08:58:43 GMT</pubDate>
+        <pubDate>Wed, 03 Jan 2018 16:18:35 GMT</pubDate>
+        <item>
+            <title><![CDATA[Deep RL Bootcamp - Lectures]]></title>
+            <description><![CDATA[<article><h1>Deep RL Bootcamp - Lectures</h1><p>Core Lecture 6 Nuts and Bolts of Deep RL Experimentation -- John Schulman ( video | slides)</p></article>]]></description>
+            <link>https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0</link>
+            <guid isPermaLink="false">70f43451-3b3a-4f64-9318-2a1db99ea959</guid>
+            <pubDate>Wed, 03 Jan 2018 16:18:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AI and Deep Learning in 2017 - A Year in Review]]></title>
             <description><![CDATA[<article><h1>AI and Deep Learning in 2017 - A Year in Review</h1><p>The year is coming to an end. I did not write nearly as much as I had planned to. But I&apos;m hoping to change that next year, with more tutorials around Reinforcement Learning, Evolution, and Bayesian Methods coming to WildML! And what better way to start than with a summary of all the amazing things that happened in 2017?</p><img src="http://d3kbpzbmcynnmx.cloudfront.net/wp-content/uploads/2017/12/Screen-Shot-2017-12-31-at-10.20.54-PM.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.technologyreview.com/s/609647/google-has-released-an-ai-tool-that-makes-sense-of-your-genome/</link>
             <guid isPermaLink="false">5b2f458b-710b-4d33-a503-6be259db0cc5</guid>
             <pubDate>Mon, 18 Dec 2017 05:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI 100: The Artificial Intelligence Startups Redefining Industries]]></title>
-            <description><![CDATA[<article><h1>AI 100: The Artificial Intelligence Startups Redefining Industries</h1><p>The 100 startups on our list have raised $11.7B in aggregate funding across 367 deals since 2012. Today, CB Insights unveiled the second annual AI 100 - a list of 100 of the most promising private companies applying artificial intelligence algorithms across 25+ industries, from healthcare to cybersecurity - at the A-Ha!</p><img src="https://s3.amazonaws.com/cbi-research-portal-uploads/2017/12/12032232/quick_facts_AI-100-2018.png"></article>]]></description>
-            <link>https://www.cbinsights.com/research/artificial-intelligence-top-startups/?utm_source=CB+Insights+Newsletter&amp;utm_campaign=a4d41a607e-TuesNL_11_28_2017&amp;utm_medium=email&amp;utm_term=0_9dc0513989-a4d41a607e-88895813</link>
-            <guid isPermaLink="false">4e6da58e-5473-482b-ae07-839ffd369188</guid>
-            <pubDate>Wed, 13 Dec 2017 18:58:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
