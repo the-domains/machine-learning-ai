@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Jan 2018 16:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2018 17:54:14 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 03 Jan 2018 16:18:35 GMT</pubDate>
+        <pubDate>Wed, 03 Jan 2018 17:54:12 GMT</pubDate>
+        <item>
+            <title><![CDATA[Exploring LSTMs]]></title>
+            <description><![CDATA[<article><h1>Exploring LSTMs</h1><p>It turns out LSTMs are a fairly simple extension to neural networks, and they&apos;re behind a lot of the amazing achievements deep learning has made in the past few years. So I&apos;ll try to present them as intuitively as possible - in such a way that you could have discovered them yourself.</p></article>]]></description>
+            <link>http://blog.echen.me/2017/05/30/exploring-lstms/</link>
+            <guid isPermaLink="false">0f760a40-8dd3-441a-8174-0df3abc5c81a</guid>
+            <pubDate>Wed, 03 Jan 2018 17:54:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deep RL Bootcamp - Lectures]]></title>
             <description><![CDATA[<article><h1>Deep RL Bootcamp - Lectures</h1><p>Core Lecture 6 Nuts and Bolts of Deep RL Experimentation -- John Schulman ( video | slides)</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/AcKMSLn_9Yg</link>
             <guid isPermaLink="false">2d3619b5-806d-43de-a1be-6dc92ab64bab</guid>
             <pubDate>Mon, 18 Dec 2017 05:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google has released an AI tool that makes sense of your genome]]></title>
-            <description><![CDATA[<article><h1>Google has released an AI tool that makes sense of your genome</h1><p>Brendan Monroe Almost 15 years after scientists first sequenced the human genome, making sense of the enormous amount of data that encodes human life remains a formidable challenge. But it is also precisely the sort of problem that machine learning excels at.</p><img src="https://cdn.technologyreview.com/i/images/aiandgenomics.jpg?cx=0&cy=0&cw=2760&ch=1552&sw=1200"></article>]]></description>
-            <link>https://www.technologyreview.com/s/609647/google-has-released-an-ai-tool-that-makes-sense-of-your-genome/</link>
-            <guid isPermaLink="false">5b2f458b-710b-4d33-a503-6be259db0cc5</guid>
-            <pubDate>Mon, 18 Dec 2017 05:30:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
