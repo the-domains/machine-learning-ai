@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Jan 2018 06:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2018 09:38:14 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Jan 2018 06:37:05 GMT</pubDate>
+        <pubDate>Wed, 17 Jan 2018 09:38:13 GMT</pubDate>
+        <item>
+            <title><![CDATA[Basic Network]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FZq4onPm-h2I%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZq4onPm-h2I&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZq4onPm-h2I%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/Zq4onPm-h2I</link>
+            <guid isPermaLink="false">38acefad-e39d-43be-857e-aff2f03a95a5</guid>
+            <pubDate>Wed, 17 Jan 2018 09:38:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Beginner's Guide to Recurrent Networks and LSTMs]]></title>
             <description><![CDATA[<article><h1>A Beginner&apos;s Guide to Recurrent Networks and LSTMs</h1><p>Contents The purpose of this post is to give students of neural networks an intuition about the functioning of recurrent neural networks and purpose and structure of a prominent RNN variation, LSTMs. Recurrent nets are a type of artificial neural network designed to recognize patterns in sequences of data, such as text, genomes, handwriting, the spoken word, or numerical times series data emanating from sensors, stock markets and government agencies.</p><img src="https://deeplearning4j.org/img/srn_elman.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://slac.csail.mit.edu/</link>
             <guid isPermaLink="false">dc5659c2-4ab6-4583-bb50-7299caab6b72</guid>
             <pubDate>Fri, 29 Dec 2017 06:12:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Machines for Machine Intelligence - Machine Intelligence Garage]]></title>
-            <description><![CDATA[<article><h1>Machines for Machine Intelligence - Machine Intelligence Garage</h1><p>Machine Intelligence Garage provides access to computation power and expertise, helping develop and build machine learning and AI solutions.</p><img src="https://www.migarage.ai/wp-content/uploads/2017/11/hero-application-overview.jpg"></article>]]></description>
-            <link>https://www.migarage.ai/?utm_content=buffer38407&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">4f82af6b-fddd-45db-ae66-2dc05958855c</guid>
-            <pubDate>Wed, 27 Dec 2017 06:38:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
