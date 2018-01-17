@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Jan 2018 09:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2018 09:38:18 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 17 Jan 2018 09:38:13 GMT</pubDate>
+        <pubDate>Wed, 17 Jan 2018 09:38:17 GMT</pubDate>
+        <item>
+            <title><![CDATA[Learning Diverse Skills via Maximum Entropy Deep Reinforcement Learning]]></title>
+            <description><![CDATA[<article><h1>Learning Diverse Skills via Maximum Entropy Deep Reinforcement Learning</h1><p>Deep reinforcement learning (deep RL) has achieved success in many tasks, such as playing video games from raw pixels (Mnih et al., 2015), playing the game of Go (Silver et al., 2016), and simulated robotic locomotion (e.g. Schulman et al., 2015).</p><img src="http://bair.berkeley.edu/static/blog/softq/figure_2a_maze_one_path.png"></article>]]></description>
+            <link>http://bair.berkeley.edu/blog/2017/10/06/soft-q-learning/</link>
+            <guid isPermaLink="false">9196eb82-7e2c-4850-a149-b80bef2275c1</guid>
+            <pubDate>Wed, 17 Jan 2018 09:38:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Basic Network]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FZq4onPm-h2I%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZq4onPm-h2I&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZq4onPm-h2I%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/IPBSB1HLNLo</link>
             <guid isPermaLink="false">cf8d7fc5-e307-42c5-8122-97e6a6da31db</guid>
             <pubDate>Sun, 31 Dec 2017 11:07:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SLAC Dataset]]></title>
-            <description><![CDATA[<article><h1>SLAC Dataset</h1><p>This project presents a novel video dataset, named SLAC (Sparsely Labeled ACtions), for action recognition and localization. It consists of over 520K untrimmed videos and 1.75M clip annotations spanning 200 action categories. Using our proposed framework, annotating a video clip takes merely 8.8 seconds on average, representing a saving in labeling time of over 95% compared to the traditional procedure of manual trimming and localization of actions.</p><img src="http://www.mit.edu/~hangzhao/images/profile2.jpg"></article>]]></description>
-            <link>http://slac.csail.mit.edu/</link>
-            <guid isPermaLink="false">dc5659c2-4ab6-4583-bb50-7299caab6b72</guid>
-            <pubDate>Fri, 29 Dec 2017 06:12:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
