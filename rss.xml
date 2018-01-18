@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Jan 2018 09:38:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2018 16:01:15 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 17 Jan 2018 09:38:17 GMT</pubDate>
+        <pubDate>Thu, 18 Jan 2018 16:01:14 GMT</pubDate>
+        <item>
+            <title><![CDATA[Welcome to Part 1 (v2)]]></title>
+            <description><![CDATA[<article><h1>Welcome to Part 1 (v2)</h1><p>Welcome to v2 of Deep Learning Part 1! We are currently doing a &quot;soft launch&quot; of the course videos. Feel free to discuss and share amongst your friends, but don&apos;t post the videos to high volume sites like twitter, HN, reddit, etc until we launch officially - since I want new people to get the best possible experience.</p><img src="http://forums.fast.ai/images/default-apple-touch-icon.png"></article>]]></description>
+            <link>http://forums.fast.ai/t/welcome-to-part-1-v2/5787</link>
+            <guid isPermaLink="false">50ca61f2-f533-4c8b-b1e3-dc98e1cf8631</guid>
+            <pubDate>Thu, 18 Jan 2018 16:01:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Learning Diverse Skills via Maximum Entropy Deep Reinforcement Learning]]></title>
             <description><![CDATA[<article><h1>Learning Diverse Skills via Maximum Entropy Deep Reinforcement Learning</h1><p>Deep reinforcement learning (deep RL) has achieved success in many tasks, such as playing video games from raw pixels (Mnih et al., 2015), playing the game of Go (Silver et al., 2016), and simulated robotic locomotion (e.g. Schulman et al., 2015).</p><img src="http://bair.berkeley.edu/static/blog/softq/figure_2a_maze_one_path.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/JNxcznsrRb8</link>
             <guid isPermaLink="false">75ede1da-2650-40e2-ac35-6253f5a8122d</guid>
             <pubDate>Mon, 01 Jan 2018 13:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deep Learning 2: Lesson 1]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FIPBSB1HLNLo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIPBSB1HLNLo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIPBSB1HLNLo%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/IPBSB1HLNLo</link>
-            <guid isPermaLink="false">cf8d7fc5-e307-42c5-8122-97e6a6da31db</guid>
-            <pubDate>Sun, 31 Dec 2017 11:07:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
