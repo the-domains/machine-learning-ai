@@ -4,9 +4,23 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Jan 2018 16:01:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2018 07:41:15 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Jan 2018 16:01:14 GMT</pubDate>
+        <pubDate>Tue, 23 Jan 2018 07:41:15 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Google Brain Team - Looking Back on 2017 (Part 1 of 2)]]></title>
+            <description><![CDATA[<article><h1>The Google Brain Team - Looking Back on 2017 (Part 1 of 2)</h1><p>The Google Brain team works to advance the state of the art in artificial intelligence by research and systems engineering, as one part of the overall Google AI effort. Last year we shared a summary of our work in 2016.</p><img src="http://1.bp.blogspot.com/-5bPNsF5plzw/VnJWs-7RbrI/AAAAAAAARmA/DaZmn8YUjAk/s1600-r/logo_research_at_google_color_1x_web_512dp.png"></article>]]></description>
+            <link>https://research.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html?imm_mid=0fa998&amp;cmp=em-data-na-na-newsltr_ai_20180122&amp;m=1</link>
+            <guid isPermaLink="false">2be77b9f-323d-4963-a1ea-aa88f32a9b5d</guid>
+            <pubDate>Tue, 23 Jan 2018 07:41:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learning with Privacy at Scale - Apple]]></title>
+            <description><![CDATA[<article><h1>Learning with Privacy at Scale - Apple</h1><p>Apple Machine Learning Journal publishes posts written by Apple engineers about their work using machine learning technologies to help build innovative products for millions of people around the world.</p><img src="https://www.apple.com/ac/structured-data/images/open_graph_logo.png"></article>]]></description>
+            <link>https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html</link>
+            <guid isPermaLink="false">f8b3dba7-9786-494a-abb3-8b16f1e6c0ff</guid>
+            <pubDate>Tue, 23 Jan 2018 07:41:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to Part 1 (v2)]]></title>
             <description><![CDATA[<article><h1>Welcome to Part 1 (v2)</h1><p>Welcome to v2 of Deep Learning Part 1! We are currently doing a &quot;soft launch&quot; of the course videos. Feel free to discuss and share amongst your friends, but don&apos;t post the videos to high volume sites like twitter, HN, reddit, etc until we launch officially - since I want new people to get the best possible experience.</p><img src="http://forums.fast.ai/images/default-apple-touch-icon.png"></article>]]></description>
@@ -62,20 +76,6 @@
             <link>https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0</link>
             <guid isPermaLink="false">70f43451-3b3a-4f64-9318-2a1db99ea959</guid>
             <pubDate>Wed, 03 Jan 2018 16:18:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI and Deep Learning in 2017 - A Year in Review]]></title>
-            <description><![CDATA[<article><h1>AI and Deep Learning in 2017 - A Year in Review</h1><p>The year is coming to an end. I did not write nearly as much as I had planned to. But I&apos;m hoping to change that next year, with more tutorials around Reinforcement Learning, Evolution, and Bayesian Methods coming to WildML! And what better way to start than with a summary of all the amazing things that happened in 2017?</p><img src="http://d3kbpzbmcynnmx.cloudfront.net/wp-content/uploads/2017/12/Screen-Shot-2017-12-31-at-10.20.54-PM.png"></article>]]></description>
-            <link>http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/</link>
-            <guid isPermaLink="false">8dd222f2-7301-46a4-81c1-48f92cf6bf55</guid>
-            <pubDate>Tue, 02 Jan 2018 08:58:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lesson 2: Deep Learning v2]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJNxcznsrRb8%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJNxcznsrRb8&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJNxcznsrRb8%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/JNxcznsrRb8</link>
-            <guid isPermaLink="false">75ede1da-2650-40e2-ac35-6253f5a8122d</guid>
-            <pubDate>Mon, 01 Jan 2018 13:51:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
