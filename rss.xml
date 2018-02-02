@@ -4,9 +4,23 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Jan 2018 10:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2018 06:22:41 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 31 Jan 2018 10:14:18 GMT</pubDate>
+        <pubDate>Fri, 02 Feb 2018 06:22:40 GMT</pubDate>
+        <item>
+            <title><![CDATA[People + AI Research]]></title>
+            <description><![CDATA[<article><h1>People + AI Research</h1><p>Machine learning is changing how we build experiences and interact with the world. This collection shares practical insights from Google&apos;s People + AI Research team on how to take a multidisciplinary and human-centered approach to designing with ML and AI.</p><img src="https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/PAIR_Collection_Hero_2x1.png"></article>]]></description>
+            <link>https://design.google/library/ai/</link>
+            <guid isPermaLink="false">dea25a3b-19b1-4ef3-9586-b155efc7a4af</guid>
+            <pubDate>Fri, 02 Feb 2018 06:22:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The UX of AI]]></title>
+            <description><![CDATA[<article><h1>The UX of AI</h1><p>Using Google Clips to understand how a human-centered design process elevates artificial intelligence</p><img src="https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/UX_of_AI_inline_008.png"></article>]]></description>
+            <link>https://design.google/library/ux-ai/</link>
+            <guid isPermaLink="false">491346a4-b139-4c59-8c5a-b4e419846488</guid>
+            <pubDate>Wed, 31 Jan 2018 10:14:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain Protocol Analysis and Security Engineering 2018 | Cyber Initiative]]></title>
             <description><![CDATA[<article><h1>Blockchain Protocol Analysis and Security Engineering 2018 | Cyber Initiative</h1><p>January 24-26 2018, Arrillaga Alumni Center, Stanford University</p><img src="https://cyber.stanford.edu/sites/default/files/styles/large-scaled/public/blockchainprotocolanalysis18.jpg?itok=_rSz-oUz"></article>]]></description>
@@ -62,20 +76,6 @@
             <link>https://youtu.be/l4X-kZjl1gs</link>
             <guid isPermaLink="false">e008d32e-95d1-4332-ae42-8a976d9a2e93</guid>
             <pubDate>Wed, 03 Jan 2018 17:54:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LSTM Networks - The Math of Intelligence (Week 8)]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F9zhrxE5PQgY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9zhrxE5PQgY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9zhrxE5PQgY%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/9zhrxE5PQgY</link>
-            <guid isPermaLink="false">29a6dad2-eb3c-4ba5-bc0a-21f5c8ac5f5e</guid>
-            <pubDate>Wed, 03 Jan 2018 17:54:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exploring LSTMs]]></title>
-            <description><![CDATA[<article><h1>Exploring LSTMs</h1><p>It turns out LSTMs are a fairly simple extension to neural networks, and they&apos;re behind a lot of the amazing achievements deep learning has made in the past few years. So I&apos;ll try to present them as intuitively as possible - in such a way that you could have discovered them yourself.</p></article>]]></description>
-            <link>http://blog.echen.me/2017/05/30/exploring-lstms/</link>
-            <guid isPermaLink="false">0f760a40-8dd3-441a-8174-0df3abc5c81a</guid>
-            <pubDate>Wed, 03 Jan 2018 17:54:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
