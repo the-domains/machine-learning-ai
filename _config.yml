@@ -36,7 +36,7 @@ navigation:
     url: 'http://www.labsharegroup.com/'
     type: external
   - name: Improve Product Security
-    url: 'http://www.buildventure.net/'
+    url: 'http://www.improveproductsecurity.com/'
     type: external
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
