@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Feb 2018 06:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2018 08:36:20 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Feb 2018 06:22:40 GMT</pubDate>
+        <pubDate>Sun, 04 Feb 2018 08:36:18 GMT</pubDate>
+        <item>
+            <title><![CDATA[DensePose]]></title>
+            <description><![CDATA[<article><h1>DensePose</h1><p>Dense Human Pose Estimation In The Wild</p><img src="http://densepose.org/img/natalia.jpg"></article>]]></description>
+            <link>http://densepose.org/</link>
+            <guid isPermaLink="false">a73f3916-fc46-43d3-af82-497834be01ee</guid>
+            <pubDate>Sun, 04 Feb 2018 08:36:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[People + AI Research]]></title>
             <description><![CDATA[<article><h1>People + AI Research</h1><p>Machine learning is changing how we build experiences and interact with the world. This collection shares practical insights from Google&apos;s People + AI Research team on how to take a multidisciplinary and human-centered approach to designing with ML and AI.</p><img src="https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/PAIR_Collection_Hero_2x1.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://deeplearning4j.org/lstm.html</link>
             <guid isPermaLink="false">7e6547c7-43d6-45d1-9148-93eca7af1289</guid>
             <pubDate>Fri, 05 Jan 2018 06:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Introduction to LSTMs in Tensorflow]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fl4X-kZjl1gs%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dl4X-kZjl1gs&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fl4X-kZjl1gs%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/l4X-kZjl1gs</link>
-            <guid isPermaLink="false">e008d32e-95d1-4332-ae42-8a976d9a2e93</guid>
-            <pubDate>Wed, 03 Jan 2018 17:54:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
