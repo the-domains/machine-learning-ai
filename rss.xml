@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 04 Feb 2018 08:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2018 18:20:24 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Feb 2018 08:36:18 GMT</pubDate>
+        <pubDate>Sun, 04 Feb 2018 18:20:22 GMT</pubDate>
+        <item>
+            <title><![CDATA[NVIDIA Deep Learning Institute Online Labs]]></title>
+            <description><![CDATA[<article><h1>NVIDIA Deep Learning Institute Online Labs</h1><p>The NVIDIA Deep Learning Institute (DLI) offers hands-on training for developers, data scientists, and researchers looking to solve the world&apos;s most challenging problems with deep learning and accelerated computing. Start with self-paced online training that can be taken anytime from anywhere with access to a fully-configured GPU-accelerated workstation in the cloud.</p><img src="https://developer.nvidia.com/sites/default/files/styles/main_preview/public/akamai/blogs/images/MemNet-270x151.png?itok=jk9h-_bS"></article>]]></description>
+            <link>https://developer.nvidia.com/dli/onlinelabs</link>
+            <guid isPermaLink="false">d92d4fe4-8a6b-4082-8100-ffab528bd639</guid>
+            <pubDate>Sun, 04 Feb 2018 18:20:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DensePose]]></title>
             <description><![CDATA[<article><h1>DensePose</h1><p>Dense Human Pose Estimation In The Wild</p><img src="http://densepose.org/img/natalia.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/Zq4onPm-h2I</link>
             <guid isPermaLink="false">38acefad-e39d-43be-857e-aff2f03a95a5</guid>
             <pubDate>Wed, 17 Jan 2018 09:38:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Beginner's Guide to Recurrent Networks and LSTMs]]></title>
-            <description><![CDATA[<article><h1>A Beginner&apos;s Guide to Recurrent Networks and LSTMs</h1><p>Contents The purpose of this post is to give students of neural networks an intuition about the functioning of recurrent neural networks and purpose and structure of a prominent RNN variation, LSTMs. Recurrent nets are a type of artificial neural network designed to recognize patterns in sequences of data, such as text, genomes, handwriting, the spoken word, or numerical times series data emanating from sensors, stock markets and government agencies.</p><img src="https://deeplearning4j.org/img/srn_elman.png"></article>]]></description>
-            <link>https://deeplearning4j.org/lstm.html</link>
-            <guid isPermaLink="false">7e6547c7-43d6-45d1-9148-93eca7af1289</guid>
-            <pubDate>Fri, 05 Jan 2018 06:37:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
