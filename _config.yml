@@ -1,16 +1,16 @@
-layout_spectrum: 0.08340152292576905
-typography_spectrum: 0.25562649914340146
+layout_spectrum: 0.8171515471439367
+typography_spectrum: 0.3802196527081588
 color:
   brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
-  brandStrength: 0.9434895036738402
-  lightness: 0.6146973964706579
-  saturation: 0.0626566021116727
-  rhythmicContrast: 0.6440717937102965
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+  brandStrength: 0.8473552954305738
+  lightness: 0.242628180403539
+  saturation: 0.9864612563727146
+  rhythmicContrast: 0.145363313684074
 coverPrefs:
   filter: false
 name: 'Machine Learning, AI'
