@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 04 Feb 2018 18:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2018 15:34:51 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Feb 2018 18:20:22 GMT</pubDate>
+        <pubDate>Tue, 13 Feb 2018 15:34:49 GMT</pubDate>
+        <item>
+            <title><![CDATA[Changing machine learning experiences: Project Trillium]]></title>
+            <description><![CDATA[<article><h1>Changing machine learning experiences: Project Trillium</h1><p>Imagine you&apos;re 30 meters down, diving above a reef surrounded by amazing-looking creatures and wondering what species the little yellow fish with the silver stripes is. You could fumble around for a fish chart, if you have one, but what you really want is an easier and faster solution.</p><img src="https://community.arm.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-21-42/Arm-robot-ML-launch-image2.jpg"></article>]]></description>
+            <link>https://community.arm.com/processors/b/blog/posts/ai-project-trillium?utm_source=Social-organic&amp;utm_medium=LInkedIn&amp;utm_campaign=MachineLearning</link>
+            <guid isPermaLink="false">0426a9a8-5cca-40be-9480-2450281e2c4f</guid>
+            <pubDate>Tue, 13 Feb 2018 15:34:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NVIDIA Deep Learning Institute Online Labs]]></title>
             <description><![CDATA[<article><h1>NVIDIA Deep Learning Institute Online Labs</h1><p>The NVIDIA Deep Learning Institute (DLI) offers hands-on training for developers, data scientists, and researchers looking to solve the world&apos;s most challenging problems with deep learning and accelerated computing. Start with self-paced online training that can be taken anytime from anywhere with access to a fully-configured GPU-accelerated workstation in the cloud.</p><img src="https://developer.nvidia.com/sites/default/files/styles/main_preview/public/akamai/blogs/images/MemNet-270x151.png?itok=jk9h-_bS"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://bair.berkeley.edu/blog/2017/10/06/soft-q-learning/</link>
             <guid isPermaLink="false">9196eb82-7e2c-4850-a149-b80bef2275c1</guid>
             <pubDate>Wed, 17 Jan 2018 09:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Basic Network]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FZq4onPm-h2I%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZq4onPm-h2I&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZq4onPm-h2I%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/Zq4onPm-h2I</link>
-            <guid isPermaLink="false">38acefad-e39d-43be-857e-aff2f03a95a5</guid>
-            <pubDate>Wed, 17 Jan 2018 09:38:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
