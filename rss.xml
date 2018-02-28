@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Feb 2018 15:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2018 07:27:04 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Feb 2018 15:34:49 GMT</pubDate>
+        <pubDate>Wed, 28 Feb 2018 07:27:02 GMT</pubDate>
+        <item>
+            <title><![CDATA[Algorithmia - Open Marketplace for Algorithms]]></title>
+            <description><![CDATA[<article><h1>Algorithmia - Open Marketplace for Algorithms</h1><p>Algorithmia makes applications smarter, by building a community around algorithm development, where state of the art algorithms are always live and accessible to anyone.</p><img src="https://algorithmia.com/static/img/Danku_diagram.3d32550.png"></article>]]></description>
+            <link>https://algorithmia.com/research/ml-models-on-blockchain</link>
+            <guid isPermaLink="false">aa4c3da8-da9c-4905-849d-26edf40aa87b</guid>
+            <pubDate>Wed, 28 Feb 2018 07:27:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Changing machine learning experiences: Project Trillium]]></title>
             <description><![CDATA[<article><h1>Changing machine learning experiences: Project Trillium</h1><p>Imagine you&apos;re 30 meters down, diving above a reef surrounded by amazing-looking creatures and wondering what species the little yellow fish with the silver stripes is. You could fumble around for a fish chart, if you have one, but what you really want is an easier and faster solution.</p><img src="https://community.arm.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-21-42/Arm-robot-ML-launch-image2.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://forums.fast.ai/t/welcome-to-part-1-v2/5787</link>
             <guid isPermaLink="false">50ca61f2-f533-4c8b-b1e3-dc98e1cf8631</guid>
             <pubDate>Thu, 18 Jan 2018 16:01:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learning Diverse Skills via Maximum Entropy Deep Reinforcement Learning]]></title>
-            <description><![CDATA[<article><h1>Learning Diverse Skills via Maximum Entropy Deep Reinforcement Learning</h1><p>Deep reinforcement learning (deep RL) has achieved success in many tasks, such as playing video games from raw pixels (Mnih et al., 2015), playing the game of Go (Silver et al., 2016), and simulated robotic locomotion (e.g. Schulman et al., 2015).</p><img src="http://bair.berkeley.edu/static/blog/softq/figure_2a_maze_one_path.png"></article>]]></description>
-            <link>http://bair.berkeley.edu/blog/2017/10/06/soft-q-learning/</link>
-            <guid isPermaLink="false">9196eb82-7e2c-4850-a149-b80bef2275c1</guid>
-            <pubDate>Wed, 17 Jan 2018 09:38:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
