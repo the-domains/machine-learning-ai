@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Feb 2018 07:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Mar 2018 12:24:34 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Feb 2018 07:27:02 GMT</pubDate>
+        <pubDate>Sat, 03 Mar 2018 12:24:33 GMT</pubDate>
+        <item>
+            <title><![CDATA[Machine Learning Crash Course | Google Developers]]></title>
+            <description><![CDATA[<article><h1>Machine Learning Crash Course | Google Developers</h1><p>Educational resources for machine learning</p><img src="https://developers.google.com/machine-learning/crash-course/images/mlcc-hero.png"></article>]]></description>
+            <link>https://developers.google.com/machine-learning/crash-course/</link>
+            <guid isPermaLink="false">cb08607c-e077-429d-8c3c-e9722401a5fd</guid>
+            <pubDate>Sat, 03 Mar 2018 12:24:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Algorithmia - Open Marketplace for Algorithms]]></title>
             <description><![CDATA[<article><h1>Algorithmia - Open Marketplace for Algorithms</h1><p>Algorithmia makes applications smarter, by building a community around algorithm development, where state of the art algorithms are always live and accessible to anyone.</p><img src="https://algorithmia.com/static/img/Danku_diagram.3d32550.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html</link>
             <guid isPermaLink="false">f8b3dba7-9786-494a-abb3-8b16f1e6c0ff</guid>
             <pubDate>Tue, 23 Jan 2018 07:41:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to Part 1 (v2)]]></title>
-            <description><![CDATA[<article><h1>Welcome to Part 1 (v2)</h1><p>Welcome to v2 of Deep Learning Part 1! We are currently doing a &quot;soft launch&quot; of the course videos. Feel free to discuss and share amongst your friends, but don&apos;t post the videos to high volume sites like twitter, HN, reddit, etc until we launch officially - since I want new people to get the best possible experience.</p><img src="http://forums.fast.ai/images/default-apple-touch-icon.png"></article>]]></description>
-            <link>http://forums.fast.ai/t/welcome-to-part-1-v2/5787</link>
-            <guid isPermaLink="false">50ca61f2-f533-4c8b-b1e3-dc98e1cf8631</guid>
-            <pubDate>Thu, 18 Jan 2018 16:01:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
