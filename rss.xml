@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Apr 2018 05:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Apr 2018 05:14:18 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Apr 2018 05:14:15 GMT</pubDate>
+        <pubDate>Mon, 02 Apr 2018 05:14:17 GMT</pubDate>
+        <item>
+            <title><![CDATA[TensorFlow Hub | TensorFlow]]></title>
+            <description><![CDATA[<article><h1>TensorFlow Hub | TensorFlow</h1><p>import tensorflow as tf import tensorflow_hub as hub with tf.Graph().as_default(): embed = hub.Module(&quot;https://tfhub.dev/google/nnlm-en-dim128-with-normalization/1&quot;) embeddings = embed([&quot;A long sentence.&quot;, &quot;single-word&quot;, &quot;http://example.com&quot;]) with tf.Session() as sess: sess.run(tf.global_variables_initializer()) sess.run(tf.tables_initializer()) print(sess.run(embeddings))</p><img src="https://www.tensorflow.org/images/tf_logo_social.png"></article>]]></description>
+            <link>https://www.tensorflow.org/hub/</link>
+            <guid isPermaLink="false">10fe94b1-fcd9-400f-88be-744ba4afc381</guid>
+            <pubDate>Mon, 02 Apr 2018 05:14:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A 21-year-old Swedish AI prodigy wants to revolutionize the $6 trillion education industry - and Tim Cook is impressed]]></title>
             <description><![CDATA[<article><h1>A 21-year-old Swedish AI prodigy wants to revolutionize the $6 trillion education industry - and Tim Cook is impressed</h1><p>Sana Labs is an education tech startup founded by Joel Hellermark, 21. It provides an artificial-intelligence platform designed to individualize a student&apos;s learning in subjects like language and math. Applying AI to education has so far proved difficult, and Sana Labs hopes its scalable platform will change that.</p><img src="http://static1.uk.businessinsider.com/image/59bfe4a3ba785e0bff4bf6a0-2400/gettyimages-846152428.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://cyber.stanford.edu/bpase18</link>
             <guid isPermaLink="false">c6e26d48-5e41-4ec6-b2e5-0986b1535f74</guid>
             <pubDate>Wed, 31 Jan 2018 10:14:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Google Brain Team - Looking Back on 2017 (Part 1 of 2)]]></title>
-            <description><![CDATA[<article><h1>The Google Brain Team - Looking Back on 2017 (Part 1 of 2)</h1><p>The Google Brain team works to advance the state of the art in artificial intelligence by research and systems engineering, as one part of the overall Google AI effort. Last year we shared a summary of our work in 2016.</p><img src="http://1.bp.blogspot.com/-5bPNsF5plzw/VnJWs-7RbrI/AAAAAAAARmA/DaZmn8YUjAk/s1600-r/logo_research_at_google_color_1x_web_512dp.png"></article>]]></description>
-            <link>https://research.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html?imm_mid=0fa998&amp;cmp=em-data-na-na-newsltr_ai_20180122&amp;m=1</link>
-            <guid isPermaLink="false">2be77b9f-323d-4963-a1ea-aa88f32a9b5d</guid>
-            <pubDate>Tue, 23 Jan 2018 07:41:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
