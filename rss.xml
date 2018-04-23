@@ -4,9 +4,23 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Apr 2018 05:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Apr 2018 14:31:18 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Apr 2018 05:14:17 GMT</pubDate>
+        <pubDate>Mon, 23 Apr 2018 14:31:16 GMT</pubDate>
+        <item>
+            <title><![CDATA[Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models · Blog · Explosion AI]]></title>
+            <description><![CDATA[<article><h1>Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models &middot; Blog &middot; Explosion AI</h1><p>Over the last six months, a powerful new neural network playbook has come together for Natural Language Processing. The new approach can be summarised as a simple four-step formula: embed, encode, attend, predict.</p><img src="https://explosion.ai/blog/img/deep-learning-formula-nlp.jpg"></article>]]></description>
+            <link>https://explosion.ai/blog/deep-learning-formula-nlp</link>
+            <guid isPermaLink="false">6a3f55bf-39d9-4e7f-9dbc-e854983c5774</guid>
+            <pubDate>Mon, 23 Apr 2018 14:31:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Building Blocks of Interpretability]]></title>
+            <description><![CDATA[<article><h1>The Building Blocks of Interpretability</h1><p>With the growing success of neural networks, there is a corresponding need to be able to explain their decisions&thinsp;-&thinsp;including building con&filig;dence about how they will behave in the real-world, detecting model bias, and for scienti&filig;c curiosity. In order to do so, we need to both construct deep abstractions and reify (or instantiate) them in rich interfaces .</p><img src="https://distill.pub/2018/building-blocks/thumbnail.jpg"></article>]]></description>
+            <link>https://distill.pub/2018/building-blocks/</link>
+            <guid isPermaLink="false">f27e084e-1fdc-4339-ab5f-6587563e08b4</guid>
+            <pubDate>Mon, 02 Apr 2018 05:14:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TensorFlow Hub | TensorFlow]]></title>
             <description><![CDATA[<article><h1>TensorFlow Hub | TensorFlow</h1><p>import tensorflow as tf import tensorflow_hub as hub with tf.Graph().as_default(): embed = hub.Module(&quot;https://tfhub.dev/google/nnlm-en-dim128-with-normalization/1&quot;) embeddings = embed([&quot;A long sentence.&quot;, &quot;single-word&quot;, &quot;http://example.com&quot;]) with tf.Session() as sess: sess.run(tf.global_variables_initializer()) sess.run(tf.tables_initializer()) print(sess.run(embeddings))</p><img src="https://www.tensorflow.org/images/tf_logo_social.png"></article>]]></description>
@@ -62,20 +76,6 @@
             <link>https://design.google/library/ai/</link>
             <guid isPermaLink="false">dea25a3b-19b1-4ef3-9586-b155efc7a4af</guid>
             <pubDate>Fri, 02 Feb 2018 06:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The UX of AI]]></title>
-            <description><![CDATA[<article><h1>The UX of AI</h1><p>Using Google Clips to understand how a human-centered design process elevates artificial intelligence</p><img src="https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/UX_of_AI_inline_008.png"></article>]]></description>
-            <link>https://design.google/library/ux-ai/</link>
-            <guid isPermaLink="false">491346a4-b139-4c59-8c5a-b4e419846488</guid>
-            <pubDate>Wed, 31 Jan 2018 10:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Protocol Analysis and Security Engineering 2018 | Cyber Initiative]]></title>
-            <description><![CDATA[<article><h1>Blockchain Protocol Analysis and Security Engineering 2018 | Cyber Initiative</h1><p>January 24-26 2018, Arrillaga Alumni Center, Stanford University</p><img src="https://cyber.stanford.edu/sites/default/files/styles/large-scaled/public/blockchainprotocolanalysis18.jpg?itok=_rSz-oUz"></article>]]></description>
-            <link>https://cyber.stanford.edu/bpase18</link>
-            <guid isPermaLink="false">c6e26d48-5e41-4ec6-b2e5-0986b1535f74</guid>
-            <pubDate>Wed, 31 Jan 2018 10:14:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
