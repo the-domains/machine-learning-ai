@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Apr 2018 11:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Apr 2018 11:44:07 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Apr 2018 11:44:03 GMT</pubDate>
+        <pubDate>Sun, 29 Apr 2018 11:44:06 GMT</pubDate>
+        <item>
+            <title><![CDATA[PyTorch - Internal Architecture Tour]]></title>
+            <description><![CDATA[<article><h1>PyTorch - Internal Architecture Tour</h1><p>Introduction Short intro to Python extension objects in C/C++ Zero-copy PyTorch Tensor to Numpy and vice-versa Tensor Storage Shared Memory DLPack: a hope for the Deep Learning frameworks Babel Introduction This post is a tour around the PyTorch codebase, it is meant to be a guide for the architectural design of</p><img src="https://pbs.twimg.com/profile_images/634134295607668736/FdZjcEl2_400x400.jpg"></article>]]></description>
+            <link>http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/</link>
+            <guid isPermaLink="false">fd5cd942-6011-4d93-b909-300a3c3309f8</guid>
+            <pubDate>Sun, 29 Apr 2018 11:44:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introduction to Recurrent Neural Networks in Pytorch - CPUheater]]></title>
             <description><![CDATA[<article><h1>Introduction to Recurrent Neural Networks in Pytorch - CPUheater</h1><p>This tutorial is intended for someone who wants to understand how Recurrent Neural Network works, no prior knowledge about RNN is required. We will implement the most simple RNN model - Elman Recurrent Neural Network. To get a better understanding of RNNs, we will build it from scratch using Pytorch tensor package and autograd library.</p><img src="https://www.cpuheater.com/wp-content/uploads/2017/12/RNN-logo-7.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://developer.nvidia.com/dli/onlinelabs</link>
             <guid isPermaLink="false">d92d4fe4-8a6b-4082-8100-ffab528bd639</guid>
             <pubDate>Sun, 04 Feb 2018 18:20:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DensePose]]></title>
-            <description><![CDATA[<article><h1>DensePose</h1><p>Dense Human Pose Estimation In The Wild</p><img src="http://densepose.org/img/natalia.jpg"></article>]]></description>
-            <link>http://densepose.org/</link>
-            <guid isPermaLink="false">a73f3916-fc46-43d3-af82-497834be01ee</guid>
-            <pubDate>Sun, 04 Feb 2018 08:36:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
