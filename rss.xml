@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Apr 2018 14:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Apr 2018 11:44:05 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Apr 2018 14:31:16 GMT</pubDate>
+        <pubDate>Sun, 29 Apr 2018 11:44:03 GMT</pubDate>
+        <item>
+            <title><![CDATA[Introduction to Recurrent Neural Networks in Pytorch - CPUheater]]></title>
+            <description><![CDATA[<article><h1>Introduction to Recurrent Neural Networks in Pytorch - CPUheater</h1><p>This tutorial is intended for someone who wants to understand how Recurrent Neural Network works, no prior knowledge about RNN is required. We will implement the most simple RNN model - Elman Recurrent Neural Network. To get a better understanding of RNNs, we will build it from scratch using Pytorch tensor package and autograd library.</p><img src="https://www.cpuheater.com/wp-content/uploads/2017/12/RNN-logo-7.png"></article>]]></description>
+            <link>https://www.cpuheater.com/deep-learning/introduction-to-recurrent-neural-networks-in-pytorch/</link>
+            <guid isPermaLink="false">80bf0fb1-0c88-4c37-bf85-a2bbbde8df75</guid>
+            <pubDate>Sun, 29 Apr 2018 11:44:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models · Blog · Explosion AI]]></title>
             <description><![CDATA[<article><h1>Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models &middot; Blog &middot; Explosion AI</h1><p>Over the last six months, a powerful new neural network playbook has come together for Natural Language Processing. The new approach can be summarised as a simple four-step formula: embed, encode, attend, predict.</p><img src="https://explosion.ai/blog/img/deep-learning-formula-nlp.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://densepose.org/</link>
             <guid isPermaLink="false">a73f3916-fc46-43d3-af82-497834be01ee</guid>
             <pubDate>Sun, 04 Feb 2018 08:36:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[People + AI Research]]></title>
-            <description><![CDATA[<article><h1>People + AI Research</h1><p>Machine learning is changing how we build experiences and interact with the world. This collection shares practical insights from Google&apos;s People + AI Research team on how to take a multidisciplinary and human-centered approach to designing with ML and AI.</p><img src="https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/PAIR_Collection_Hero_2x1.png"></article>]]></description>
-            <link>https://design.google/library/ai/</link>
-            <guid isPermaLink="false">dea25a3b-19b1-4ef3-9586-b155efc7a4af</guid>
-            <pubDate>Fri, 02 Feb 2018 06:22:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
