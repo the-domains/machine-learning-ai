@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Apr 2018 11:44:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 May 2018 02:59:16 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Apr 2018 11:44:11 GMT</pubDate>
+        <pubDate>Thu, 03 May 2018 02:59:14 GMT</pubDate>
+        <item>
+            <title><![CDATA[Grokking Deep Reinforcement Learning]]></title>
+            <description><![CDATA[<article><h1>Grokking Deep Reinforcement Learning</h1><p>The must-have book, for anyone that wants to have a profound understanding of deep reinforcement learning.</p><img src="https://images.manning.com/720/960/resize/book/4/35e3f19-ae90-4b03-ad85-9b3dfe700aeb/Morales_DRL_hiresMEAP.png"></article>]]></description>
+            <link>https://www.manning.com/books/grokking-deep-reinforcement-learning</link>
+            <guid isPermaLink="false">7b04b2a4-fb23-458f-b84e-0be624282aed</guid>
+            <pubDate>Thu, 03 May 2018 02:59:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[RemoteML - Remote Machine Learning Jobs: AI, Data Science, Deep Learning.]]></title>
             <description><![CDATA[<article><h1>RemoteML - Remote Machine Learning Jobs: AI, Data Science, Deep Learning.</h1><p>The best candidates are distributed all over the world. Find the best Machine Learning, Deep Learning and Data Science talent all over the world on RemoteML</p><img src="https://remoteml.com/static/img/remoteml-wallpaper.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://algorithmia.com/research/ml-models-on-blockchain</link>
             <guid isPermaLink="false">aa4c3da8-da9c-4905-849d-26edf40aa87b</guid>
             <pubDate>Wed, 28 Feb 2018 07:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Changing machine learning experiences: Project Trillium]]></title>
-            <description><![CDATA[<article><h1>Changing machine learning experiences: Project Trillium</h1><p>Imagine you&apos;re 30 meters down, diving above a reef surrounded by amazing-looking creatures and wondering what species the little yellow fish with the silver stripes is. You could fumble around for a fish chart, if you have one, but what you really want is an easier and faster solution.</p><img src="https://community.arm.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-21-42/Arm-robot-ML-launch-image2.jpg"></article>]]></description>
-            <link>https://community.arm.com/processors/b/blog/posts/ai-project-trillium?utm_source=Social-organic&amp;utm_medium=LInkedIn&amp;utm_campaign=MachineLearning</link>
-            <guid isPermaLink="false">0426a9a8-5cca-40be-9480-2450281e2c4f</guid>
-            <pubDate>Tue, 13 Feb 2018 15:34:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
