@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 May 2018 02:59:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 May 2018 02:59:17 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 May 2018 02:59:14 GMT</pubDate>
+        <pubDate>Thu, 03 May 2018 02:59:16 GMT</pubDate>
+        <item>
+            <title><![CDATA[Facebook AI | Tools | Open Source Deep Learning Tools]]></title>
+            <description><![CDATA[<article><h1>Facebook AI | Tools | Open Source Deep Learning Tools</h1><p>Experience flexible research and accelerated production with Facebook&apos;s ecosystem of open source, state-of-the-art AI developer tools.</p><img src="https://facebook.ai/wp-content/themes/fb-ai/images/share.jpg"></article>]]></description>
+            <link>https://facebook.ai/developers/tools#libraries</link>
+            <guid isPermaLink="false">12109d5a-c2b8-49f1-abba-b74adef2c816</guid>
+            <pubDate>Thu, 03 May 2018 02:59:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Grokking Deep Reinforcement Learning]]></title>
             <description><![CDATA[<article><h1>Grokking Deep Reinforcement Learning</h1><p>The must-have book, for anyone that wants to have a profound understanding of deep reinforcement learning.</p><img src="https://images.manning.com/720/960/resize/book/4/35e3f19-ae90-4b03-ad85-9b3dfe700aeb/Morales_DRL_hiresMEAP.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://developers.google.com/machine-learning/crash-course/</link>
             <guid isPermaLink="false">cb08607c-e077-429d-8c3c-e9722401a5fd</guid>
             <pubDate>Sat, 03 Mar 2018 12:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Algorithmia - Open Marketplace for Algorithms]]></title>
-            <description><![CDATA[<article><h1>Algorithmia - Open Marketplace for Algorithms</h1><p>Algorithmia makes applications smarter, by building a community around algorithm development, where state of the art algorithms are always live and accessible to anyone.</p><img src="https://algorithmia.com/static/img/Danku_diagram.3d32550.png"></article>]]></description>
-            <link>https://algorithmia.com/research/ml-models-on-blockchain</link>
-            <guid isPermaLink="false">aa4c3da8-da9c-4905-849d-26edf40aa87b</guid>
-            <pubDate>Wed, 28 Feb 2018 07:27:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
