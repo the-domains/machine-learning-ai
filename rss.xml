@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 May 2018 02:59:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 May 2018 14:16:01 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 May 2018 02:59:16 GMT</pubDate>
+        <pubDate>Sun, 06 May 2018 14:15:59 GMT</pubDate>
+        <item>
+            <title><![CDATA[Monte Carlo Tree Search - beginners guide - Machine learning blog]]></title>
+            <description><![CDATA[<article><h1>Monte Carlo Tree Search - beginners guide - Machine learning blog</h1><p>For quite a long time, a common opinion in academic world was that machine achieving human master performance level in the game of Go was far from realistic. It was considered a &apos;holy grail&apos; of AI - a milestone we were quite far away from reaching within upcoming decade.</p><img src="https://int8.io/wp-content/uploads/2018/03/min-maxtree.png"></article>]]></description>
+            <link>https://int8.io/monte-carlo-tree-search-beginners-guide/</link>
+            <guid isPermaLink="false">a483be8f-9db6-4e3e-9815-f9ce794e48f6</guid>
+            <pubDate>Sun, 06 May 2018 14:15:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Facebook AI | Tools | Open Source Deep Learning Tools]]></title>
             <description><![CDATA[<article><h1>Facebook AI | Tools | Open Source Deep Learning Tools</h1><p>Experience flexible research and accelerated production with Facebook&apos;s ecosystem of open source, state-of-the-art AI developer tools.</p><img src="https://facebook.ai/wp-content/themes/fb-ai/images/share.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://uk.businessinsider.com/21-year-old-ai-prodigy-wants-to-revolutionize-the-education-industry-2018-3?r=US&amp;IR=T&amp;utm_content=buffer92cb5&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer-ti</link>
             <guid isPermaLink="false">6b3a5ba3-eee6-4949-bec1-15d972824f9e</guid>
             <pubDate>Mon, 02 Apr 2018 05:14:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Machine Learning Crash Course | Google Developers]]></title>
-            <description><![CDATA[<article><h1>Machine Learning Crash Course | Google Developers</h1><p>Educational resources for machine learning</p><img src="https://developers.google.com/machine-learning/crash-course/images/mlcc-hero.png"></article>]]></description>
-            <link>https://developers.google.com/machine-learning/crash-course/</link>
-            <guid isPermaLink="false">cb08607c-e077-429d-8c3c-e9722401a5fd</guid>
-            <pubDate>Sat, 03 Mar 2018 12:24:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
