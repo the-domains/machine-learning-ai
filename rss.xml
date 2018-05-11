@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 May 2018 14:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 May 2018 07:08:10 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 May 2018 14:15:59 GMT</pubDate>
+        <pubDate>Fri, 11 May 2018 07:08:08 GMT</pubDate>
+        <item>
+            <title><![CDATA[Lessons Learned Reproducing a Deep Reinforcement Learning Paper]]></title>
+            <description><![CDATA[<article><h1>Lessons Learned Reproducing a Deep Reinforcement Learning Paper</h1><p>There are a lot of neat things going on in deep reinforcement learning. One of the coolest things from last year was OpenAI and DeepMind&apos;s work on training an agent using feedback from a human rather than a classical reward signal.</p><img src="http://amid.fish/images/me.png"></article>]]></description>
+            <link>http://amid.fish/reproducing-deep-rl</link>
+            <guid isPermaLink="false">e5f8bcd9-1d28-4694-bea0-80b7c16f5f3c</guid>
+            <pubDate>Fri, 11 May 2018 07:08:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Monte Carlo Tree Search - beginners guide - Machine learning blog]]></title>
             <description><![CDATA[<article><h1>Monte Carlo Tree Search - beginners guide - Machine learning blog</h1><p>For quite a long time, a common opinion in academic world was that machine achieving human master performance level in the game of Go was far from realistic. It was considered a &apos;holy grail&apos; of AI - a milestone we were quite far away from reaching within upcoming decade.</p><img src="https://int8.io/wp-content/uploads/2018/03/min-maxtree.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.tensorflow.org/hub/</link>
             <guid isPermaLink="false">10fe94b1-fcd9-400f-88be-744ba4afc381</guid>
             <pubDate>Mon, 02 Apr 2018 05:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A 21-year-old Swedish AI prodigy wants to revolutionize the $6 trillion education industry - and Tim Cook is impressed]]></title>
-            <description><![CDATA[<article><h1>A 21-year-old Swedish AI prodigy wants to revolutionize the $6 trillion education industry - and Tim Cook is impressed</h1><p>Sana Labs is an education tech startup founded by Joel Hellermark, 21. It provides an artificial-intelligence platform designed to individualize a student&apos;s learning in subjects like language and math. Applying AI to education has so far proved difficult, and Sana Labs hopes its scalable platform will change that.</p><img src="http://static1.uk.businessinsider.com/image/59bfe4a3ba785e0bff4bf6a0-2400/gettyimages-846152428.jpg"></article>]]></description>
-            <link>http://uk.businessinsider.com/21-year-old-ai-prodigy-wants-to-revolutionize-the-education-industry-2018-3?r=US&amp;IR=T&amp;utm_content=buffer92cb5&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer-ti</link>
-            <guid isPermaLink="false">6b3a5ba3-eee6-4949-bec1-15d972824f9e</guid>
-            <pubDate>Mon, 02 Apr 2018 05:14:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
