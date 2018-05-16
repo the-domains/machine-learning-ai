@@ -4,16 +4,9 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 May 2018 16:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 May 2018 16:42:49 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 May 2018 16:42:49 GMT</pubDate>
-        <item>
-            <title><![CDATA[Secure Computations as Dataflow Programs - Cryptography and Machine Learning]]></title>
-            <description><![CDATA[<article><h1>Secure Computations as Dataflow Programs - Cryptography and Machine Learning</h1><p>Mixing both for private data analysis</p><img src="https://mortendahl.github.io/assets/tensorspdz/cached.png"></article>]]></description>
-            <link>https://mortendahl.github.io/2018/03/01/secure-computation-as-dataflow-programs/</link>
-            <guid isPermaLink="false">586d9336-81ce-466e-b6c8-fc513cd0194c</guid>
-            <pubDate>Wed, 16 May 2018 16:42:48 GMT</pubDate>
-        </item>
+        <pubDate>Wed, 16 May 2018 16:42:47 GMT</pubDate>
         <item>
             <title><![CDATA[Lessons from My First Two Years of AI Research]]></title>
             <description><![CDATA[<article><h1>Lessons from My First Two Years of AI Research</h1><p>Tom Silver | About Me | Favorite Papers | Blog By Tom Silver A friend of mine who is about to start a career in artificial intelligence research recently asked what I wish I had known when I started two years ago. Below are some lessons I have learned so far.</p></article>]]></description>
@@ -76,6 +69,13 @@
             <link>https://explosion.ai/blog/deep-learning-formula-nlp</link>
             <guid isPermaLink="false">6a3f55bf-39d9-4e7f-9dbc-e854983c5774</guid>
             <pubDate>Mon, 23 Apr 2018 14:31:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Building Blocks of Interpretability]]></title>
+            <description><![CDATA[<article><h1>The Building Blocks of Interpretability</h1><p>With the growing success of neural networks, there is a corresponding need to be able to explain their decisions&thinsp;-&thinsp;including building con&filig;dence about how they will behave in the real-world, detecting model bias, and for scienti&filig;c curiosity. In order to do so, we need to both construct deep abstractions and reify (or instantiate) them in rich interfaces .</p><img src="https://distill.pub/2018/building-blocks/thumbnail.jpg"></article>]]></description>
+            <link>https://distill.pub/2018/building-blocks/</link>
+            <guid isPermaLink="false">f27e084e-1fdc-4339-ab5f-6587563e08b4</guid>
+            <pubDate>Mon, 02 Apr 2018 05:14:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
