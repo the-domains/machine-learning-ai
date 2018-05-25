@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 May 2018 05:44:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 May 2018 02:22:51 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 May 2018 05:44:36 GMT</pubDate>
+        <pubDate>Fri, 25 May 2018 02:22:50 GMT</pubDate>
+        <item>
+            <title><![CDATA[MURA Dataset: Towards Radiologist-Level Abnormality Detection in Musculoskeletal Radiographs]]></title>
+            <description><![CDATA[<article><h1>MURA Dataset: Towards Radiologist-Level Abnormality Detection in Musculoskeletal Radiographs</h1><p>MURA is a large dataset of bone X-rays. Algorithms are tasked with determining whether an X-ray study is normal or abnormal.</p><img src="https://stanfordmlgroup.github.io/competitions/mura/img/dataset.png"></article>]]></description>
+            <link>https://stanfordmlgroup.github.io/competitions/mura/</link>
+            <guid isPermaLink="false">a7582558-7864-4590-950b-fab940782e72</guid>
+            <pubDate>Fri, 25 May 2018 02:22:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What's In-Between]]></title>
             <description><![CDATA[<article><h1>Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What&apos;s In-Between</h1><p>Understanding and computing filter banks and MFCCs and a discussion on why are filter banks becoming increasingly popular.</p><img src="http://haythamfayek.com/assets/posts/post1/hamming_window.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://remoteml.com/</link>
             <guid isPermaLink="false">9fd435ca-783d-4191-8a3f-e133f286ee89</guid>
             <pubDate>Sun, 29 Apr 2018 11:44:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PyTorch - Internal Architecture Tour]]></title>
-            <description><![CDATA[<article><h1>PyTorch - Internal Architecture Tour</h1><p>Introduction Short intro to Python extension objects in C/C++ Zero-copy PyTorch Tensor to Numpy and vice-versa Tensor Storage Shared Memory DLPack: a hope for the Deep Learning frameworks Babel Introduction This post is a tour around the PyTorch codebase, it is meant to be a guide for the architectural design of</p><img src="https://pbs.twimg.com/profile_images/634134295607668736/FdZjcEl2_400x400.jpg"></article>]]></description>
-            <link>http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/</link>
-            <guid isPermaLink="false">fd5cd942-6011-4d93-b909-300a3c3309f8</guid>
-            <pubDate>Sun, 29 Apr 2018 11:44:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
