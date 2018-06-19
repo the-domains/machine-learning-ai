@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jun 2018 03:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jun 2018 03:43:49 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 Jun 2018 03:43:40 GMT</pubDate>
+        <pubDate>Tue, 19 Jun 2018 03:43:48 GMT</pubDate>
+        <item>
+            <title><![CDATA[Berkeley Open Sources Largest Self-Driving Dataset Every Data Scientist Should Download NOW]]></title>
+            <description><![CDATA[<article><h1>Berkeley Open Sources Largest Self-Driving Dataset Every Data Scientist Should Download NOW</h1><p>Overview UC Berkeley has open sourced the world&apos;s largest and most diverse self-driving dataset It contains 100,000 video sequences, each approximately 40 seconds long and in 720p quality This dataset is 800 times bigger than Baidu&apos;s ApolloScape! Introduction Self-driving cars are on the verge of transforming the way we</p><img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/06/Screenshot-from-2018-06-02-10-26-09.png"></article>]]></description>
+            <link>https://www.analyticsvidhya.com/blog/2018/06/berkeley-open-sources-largest-self-driving-dataset-every-data-scientist-should-download-now/</link>
+            <guid isPermaLink="false">49148ecb-d5d4-485e-8ca7-50a915dac3dc</guid>
+            <pubDate>Tue, 19 Jun 2018 03:43:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A visual introduction to machine learning, Part II]]></title>
             <description><![CDATA[<article><h1>A visual introduction to machine learning, Part II</h1><p>A visual introduction to machine learning-Part II The goal of modeling is to approximate real-life situations by identifying and encoding patterns in data. Models make mistakes if those patterns are overly simple or overly complex. In Part 1, we created a model that distinguishes homes in San Francisco from those in New York.</p><img src="http://www.r2d3.us/static/pages/decision-trees-part2-v2/part2-preview-en.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://int8.io/monte-carlo-tree-search-beginners-guide/</link>
             <guid isPermaLink="false">a483be8f-9db6-4e3e-9815-f9ce794e48f6</guid>
             <pubDate>Sun, 06 May 2018 14:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook AI | Tools | Open Source Deep Learning Tools]]></title>
-            <description><![CDATA[<article><h1>Facebook AI | Tools | Open Source Deep Learning Tools</h1><p>Experience flexible research and accelerated production with Facebook&apos;s ecosystem of open source, state-of-the-art AI developer tools.</p><img src="https://facebook.ai/wp-content/themes/fb-ai/images/share.jpg"></article>]]></description>
-            <link>https://facebook.ai/developers/tools#libraries</link>
-            <guid isPermaLink="false">12109d5a-c2b8-49f1-abba-b74adef2c816</guid>
-            <pubDate>Thu, 03 May 2018 02:59:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
