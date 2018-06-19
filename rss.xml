@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 May 2018 02:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jun 2018 03:43:40 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 May 2018 02:22:50 GMT</pubDate>
+        <pubDate>Tue, 19 Jun 2018 03:43:38 GMT</pubDate>
+        <item>
+            <title><![CDATA[Unity ML-Agents Toolkit v0.4 and Udacity Deep Reinforcement Learning Nanodegree - Unity Blog]]></title>
+            <description><![CDATA[<article><h1>Unity ML-Agents Toolkit v0.4 and Udacity Deep Reinforcement Learning Nanodegree - Unity Blog</h1><p>We are happy to announce the release of the latest version of ML-Agents: v0.4. It contains a number of features, which we hope everyone will enjoy. It includes the option to train your environments directly from the editor, rather than as built executables, making iteration time much quicker.</p><img src="https://blogs.unity3d.com/wp-content/uploads/2018/06/ml_agents-v0.4.jpg"></article>]]></description>
+            <link>https://blogs.unity3d.com/2018/06/19/unity-ml-agents-toolkit-v0-4-and-udacity-deep-reinforcement-learning-nanodegree/</link>
+            <guid isPermaLink="false">d252ffeb-297c-427d-a46f-119b299d5346</guid>
+            <pubDate>Tue, 19 Jun 2018 03:43:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MURA Dataset: Towards Radiologist-Level Abnormality Detection in Musculoskeletal Radiographs]]></title>
             <description><![CDATA[<article><h1>MURA Dataset: Towards Radiologist-Level Abnormality Detection in Musculoskeletal Radiographs</h1><p>MURA is a large dataset of bone X-rays. Algorithms are tasked with determining whether an X-ray study is normal or abnormal.</p><img src="https://stanfordmlgroup.github.io/competitions/mura/img/dataset.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.manning.com/books/grokking-deep-reinforcement-learning</link>
             <guid isPermaLink="false">7b04b2a4-fb23-458f-b84e-0be624282aed</guid>
             <pubDate>Thu, 03 May 2018 02:59:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RemoteML - Remote Machine Learning Jobs: AI, Data Science, Deep Learning.]]></title>
-            <description><![CDATA[<article><h1>RemoteML - Remote Machine Learning Jobs: AI, Data Science, Deep Learning.</h1><p>The best candidates are distributed all over the world. Find the best Machine Learning, Deep Learning and Data Science talent all over the world on RemoteML</p><img src="https://remoteml.com/static/img/remoteml-wallpaper.jpg"></article>]]></description>
-            <link>https://remoteml.com/</link>
-            <guid isPermaLink="false">9fd435ca-783d-4191-8a3f-e133f286ee89</guid>
-            <pubDate>Sun, 29 Apr 2018 11:44:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
