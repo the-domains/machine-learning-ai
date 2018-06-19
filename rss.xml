@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jun 2018 03:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jun 2018 03:43:42 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 Jun 2018 03:43:38 GMT</pubDate>
+        <pubDate>Tue, 19 Jun 2018 03:43:40 GMT</pubDate>
+        <item>
+            <title><![CDATA[A visual introduction to machine learning, Part II]]></title>
+            <description><![CDATA[<article><h1>A visual introduction to machine learning, Part II</h1><p>A visual introduction to machine learning-Part II The goal of modeling is to approximate real-life situations by identifying and encoding patterns in data. Models make mistakes if those patterns are overly simple or overly complex. In Part 1, we created a model that distinguishes homes in San Francisco from those in New York.</p><img src="http://www.r2d3.us/static/pages/decision-trees-part2-v2/part2-preview-en.png"></article>]]></description>
+            <link>http://www.r2d3.us/visual-intro-to-machine-learning-part-2/</link>
+            <guid isPermaLink="false">98160ea4-da38-42a5-a8ab-1ef0fa25ad92</guid>
+            <pubDate>Tue, 19 Jun 2018 03:43:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Unity ML-Agents Toolkit v0.4 and Udacity Deep Reinforcement Learning Nanodegree - Unity Blog]]></title>
             <description><![CDATA[<article><h1>Unity ML-Agents Toolkit v0.4 and Udacity Deep Reinforcement Learning Nanodegree - Unity Blog</h1><p>We are happy to announce the release of the latest version of ML-Agents: v0.4. It contains a number of features, which we hope everyone will enjoy. It includes the option to train your environments directly from the editor, rather than as built executables, making iteration time much quicker.</p><img src="https://blogs.unity3d.com/wp-content/uploads/2018/06/ml_agents-v0.4.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://facebook.ai/developers/tools#libraries</link>
             <guid isPermaLink="false">12109d5a-c2b8-49f1-abba-b74adef2c816</guid>
             <pubDate>Thu, 03 May 2018 02:59:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grokking Deep Reinforcement Learning]]></title>
-            <description><![CDATA[<article><h1>Grokking Deep Reinforcement Learning</h1><p>The must-have book, for anyone that wants to have a profound understanding of deep reinforcement learning.</p><img src="https://images.manning.com/720/960/resize/book/4/35e3f19-ae90-4b03-ad85-9b3dfe700aeb/Morales_DRL_hiresMEAP.png"></article>]]></description>
-            <link>https://www.manning.com/books/grokking-deep-reinforcement-learning</link>
-            <guid isPermaLink="false">7b04b2a4-fb23-458f-b84e-0be624282aed</guid>
-            <pubDate>Thu, 03 May 2018 02:59:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
