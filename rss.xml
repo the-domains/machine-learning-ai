@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jun 2018 03:43:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jun 2018 03:48:01 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 Jun 2018 03:43:48 GMT</pubDate>
+        <pubDate>Wed, 27 Jun 2018 03:47:59 GMT</pubDate>
+        <item>
+            <title><![CDATA[Training a CNN using SPDZ]]></title>
+            <description><![CDATA[<article><h1>Training a CNN using SPDZ</h1><p>Most efforts to privately train machine-learning models either use homomorphic encryption or secure multi-party computation (MPC). Recent insights indicate that the latter has the most potential. Here we will describe the implementation of Convolutional Neural Networks (CNNs) using MPC.</p><img src="https://images.unsplash.com/photo-1471982723806-9159d4ca27b7?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=8c610681d7918441fa120959dfeda006"></article>]]></description>
+            <link>https://blog.openmined.org/training-cnns-using-spdz/</link>
+            <guid isPermaLink="false">849dbbcb-4bae-4c6b-b02b-ca41614d074a</guid>
+            <pubDate>Wed, 27 Jun 2018 03:47:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Berkeley Open Sources Largest Self-Driving Dataset Every Data Scientist Should Download NOW]]></title>
             <description><![CDATA[<article><h1>Berkeley Open Sources Largest Self-Driving Dataset Every Data Scientist Should Download NOW</h1><p>Overview UC Berkeley has open sourced the world&apos;s largest and most diverse self-driving dataset It contains 100,000 video sequences, each approximately 40 seconds long and in 720p quality This dataset is 800 times bigger than Baidu&apos;s ApolloScape! Introduction Self-driving cars are on the verge of transforming the way we</p><img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/06/Screenshot-from-2018-06-02-10-26-09.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://amid.fish/reproducing-deep-rl</link>
             <guid isPermaLink="false">e5f8bcd9-1d28-4694-bea0-80b7c16f5f3c</guid>
             <pubDate>Fri, 11 May 2018 07:08:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Monte Carlo Tree Search - beginners guide - Machine learning blog]]></title>
-            <description><![CDATA[<article><h1>Monte Carlo Tree Search - beginners guide - Machine learning blog</h1><p>For quite a long time, a common opinion in academic world was that machine achieving human master performance level in the game of Go was far from realistic. It was considered a &apos;holy grail&apos; of AI - a milestone we were quite far away from reaching within upcoming decade.</p><img src="https://int8.io/wp-content/uploads/2018/03/min-maxtree.png"></article>]]></description>
-            <link>https://int8.io/monte-carlo-tree-search-beginners-guide/</link>
-            <guid isPermaLink="false">a483be8f-9db6-4e3e-9815-f9ce794e48f6</guid>
-            <pubDate>Sun, 06 May 2018 14:15:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
