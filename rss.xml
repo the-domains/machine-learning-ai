@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jun 2018 03:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jun 2018 03:48:04 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 Jun 2018 03:47:59 GMT</pubDate>
+        <pubDate>Wed, 27 Jun 2018 03:48:03 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Elements of AI - a free online course]]></title>
+            <description><![CDATA[<article><h1>The Elements of AI - a free online course</h1><p>Learn more about the University of Helsinki and Reaktor&apos;s upcoming AI course for students and business professionals - no programming or math skills required.</p><img src="https://elementsofai.s3.amazonaws.com/_1200x600_crop_center-center_none/facebook.png"></article>]]></description>
+            <link>https://www.elementsofai.com/</link>
+            <guid isPermaLink="false">896e43dc-edf2-4733-938a-cee2c2b481db</guid>
+            <pubDate>Wed, 27 Jun 2018 03:48:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Training a CNN using SPDZ]]></title>
             <description><![CDATA[<article><h1>Training a CNN using SPDZ</h1><p>Most efforts to privately train machine-learning models either use homomorphic encryption or secure multi-party computation (MPC). Recent insights indicate that the latter has the most potential. Here we will describe the implementation of Convolutional Neural Networks (CNNs) using MPC.</p><img src="https://images.unsplash.com/photo-1471982723806-9159d4ca27b7?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=8c610681d7918441fa120959dfeda006"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://web.mit.edu/tslvr/www/lessons_two_years.html</link>
             <guid isPermaLink="false">84aa9f11-1ca2-40bf-a8fe-72f1bb4690ca</guid>
             <pubDate>Wed, 16 May 2018 16:42:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lessons Learned Reproducing a Deep Reinforcement Learning Paper]]></title>
-            <description><![CDATA[<article><h1>Lessons Learned Reproducing a Deep Reinforcement Learning Paper</h1><p>There are a lot of neat things going on in deep reinforcement learning. One of the coolest things from last year was OpenAI and DeepMind&apos;s work on training an agent using feedback from a human rather than a classical reward signal.</p><img src="http://amid.fish/images/me.png"></article>]]></description>
-            <link>http://amid.fish/reproducing-deep-rl</link>
-            <guid isPermaLink="false">e5f8bcd9-1d28-4694-bea0-80b7c16f5f3c</guid>
-            <pubDate>Fri, 11 May 2018 07:08:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
