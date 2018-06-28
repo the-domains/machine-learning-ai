@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jun 2018 03:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jun 2018 08:04:42 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 Jun 2018 03:48:03 GMT</pubDate>
+        <pubDate>Thu, 28 Jun 2018 08:04:40 GMT</pubDate>
+        <item>
+            <title><![CDATA[Machine Learning Practica | Google Developers]]></title>
+            <description><![CDATA[<article><h1>Machine Learning Practica | Google Developers</h1><p>Domain-specific hands-on tutorials that teach how to use machine learning to solve real-world problems.</p><img src="https://developers.google.com/_static/643e84ea67/images/share/devsite-white.png"></article>]]></description>
+            <link>https://developers.google.com/machine-learning/practica/</link>
+            <guid isPermaLink="false">f3fc9d16-867e-426e-8ec2-583b9bfdf834</guid>
+            <pubDate>Thu, 28 Jun 2018 08:04:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Elements of AI - a free online course]]></title>
             <description><![CDATA[<article><h1>The Elements of AI - a free online course</h1><p>Learn more about the University of Helsinki and Reaktor&apos;s upcoming AI course for students and business professionals - no programming or math skills required.</p><img src="https://elementsofai.s3.amazonaws.com/_1200x600_crop_center-center_none/facebook.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://mortendahl.github.io/2018/03/01/secure-computation-as-dataflow-programs/</link>
             <guid isPermaLink="false">586d9336-81ce-466e-b6c8-fc513cd0194c</guid>
             <pubDate>Wed, 16 May 2018 16:42:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lessons from My First Two Years of AI Research]]></title>
-            <description><![CDATA[<article><h1>Lessons from My First Two Years of AI Research</h1><p>Tom Silver | About Me | Favorite Papers | Blog By Tom Silver A friend of mine who is about to start a career in artificial intelligence research recently asked what I wish I had known when I started two years ago. Below are some lessons I have learned so far.</p></article>]]></description>
-            <link>http://web.mit.edu/tslvr/www/lessons_two_years.html</link>
-            <guid isPermaLink="false">84aa9f11-1ca2-40bf-a8fe-72f1bb4690ca</guid>
-            <pubDate>Wed, 16 May 2018 16:42:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
