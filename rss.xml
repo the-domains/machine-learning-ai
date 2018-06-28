@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jun 2018 08:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jun 2018 15:54:13 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 Jun 2018 08:04:40 GMT</pubDate>
+        <pubDate>Thu, 28 Jun 2018 15:54:11 GMT</pubDate>
+        <item>
+            <title><![CDATA[Understanding and Building an Object Detection Model from Scratch in Python]]></title>
+            <description><![CDATA[<article><h1>Understanding and Building an Object Detection Model from Scratch in Python</h1><p>Introduction When we&apos;re shown an image, our brain instantly recognizes the objects contained in it. But it takes a lot of time and training data for a machine to identify these objects. But with the recent advances in hardware and deep learning, this computer vision field has become a whole lot easier and more intuitive.</p><img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/06/maxresdefault.jpg"></article>]]></description>
+            <link>https://www.analyticsvidhya.com/blog/2018/06/understanding-building-object-detection-model-python/</link>
+            <guid isPermaLink="false">915f39a3-2b66-4b0b-b78d-a7234cc991d6</guid>
+            <pubDate>Thu, 28 Jun 2018 15:54:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Machine Learning Practica | Google Developers]]></title>
             <description><![CDATA[<article><h1>Machine Learning Practica | Google Developers</h1><p>Domain-specific hands-on tutorials that teach how to use machine learning to solve real-world problems.</p><img src="https://developers.google.com/_static/643e84ea67/images/share/devsite-white.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://blog-paperspace-com.cdn.ampproject.org/c/s/blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/amp/</link>
             <guid isPermaLink="false">17e1cce8-f39a-4c85-835b-b7a34421445a</guid>
             <pubDate>Fri, 18 May 2018 07:37:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Secure Computations as Dataflow Programs - Cryptography and Machine Learning]]></title>
-            <description><![CDATA[<article><h1>Secure Computations as Dataflow Programs - Cryptography and Machine Learning</h1><p>Mixing both for private data analysis</p><img src="https://mortendahl.github.io/assets/tensorspdz/cached.png"></article>]]></description>
-            <link>https://mortendahl.github.io/2018/03/01/secure-computation-as-dataflow-programs/</link>
-            <guid isPermaLink="false">586d9336-81ce-466e-b6c8-fc513cd0194c</guid>
-            <pubDate>Wed, 16 May 2018 16:42:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
