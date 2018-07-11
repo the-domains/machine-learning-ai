@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jun 2018 15:54:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jul 2018 05:06:34 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 Jun 2018 15:54:11 GMT</pubDate>
+        <pubDate>Wed, 11 Jul 2018 05:06:31 GMT</pubDate>
+        <item>
+            <title><![CDATA[State of AI]]></title>
+            <description><![CDATA[<article><h1>State of AI</h1><p>A report that seeks to trigger informed conversation about the state of AI and its implication for the future.</p></article>]]></description>
+            <link>https://www.stateof.ai/</link>
+            <guid isPermaLink="false">34f141b0-ccef-4930-92f0-0f61414ae231</guid>
+            <pubDate>Wed, 11 Jul 2018 05:06:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Understanding and Building an Object Detection Model from Scratch in Python]]></title>
             <description><![CDATA[<article><h1>Understanding and Building an Object Detection Model from Scratch in Python</h1><p>Introduction When we&apos;re shown an image, our brain instantly recognizes the objects contained in it. But it takes a lot of time and training data for a machine to identify these objects. But with the recent advances in hardware and deep learning, this computer vision field has become a whole lot easier and more intuitive.</p><img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/06/maxresdefault.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html</link>
             <guid isPermaLink="false">c4a2b006-e609-44f9-989a-2daca37a1b6f</guid>
             <pubDate>Sat, 19 May 2018 05:44:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tutorial on implementing YOLO v3 from scratch in PyTorch]]></title>
-            <description><![CDATA[<article><h1>Tutorial on implementing YOLO v3 from scratch in PyTorch</h1><p>Object detection is a domain that has benefited immensely from the recent developments in deep learning. Recent years have seen people develop many algorithms for object detection, some of which include YOLO, SSD, Mask RCNN and RetinaNet. For the past few months, I&apos;ve been working on improving object detection at a research lab.</p><img src="https://blog.paperspace.com/content/images/2018/04/maxresdefault-p1.jpg"></article>]]></description>
-            <link>https://blog-paperspace-com.cdn.ampproject.org/c/s/blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/amp/</link>
-            <guid isPermaLink="false">17e1cce8-f39a-4c85-835b-b7a34421445a</guid>
-            <pubDate>Fri, 18 May 2018 07:37:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
