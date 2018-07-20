@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Jul 2018 05:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jul 2018 06:32:26 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Jul 2018 05:06:31 GMT</pubDate>
+        <pubDate>Fri, 20 Jul 2018 06:32:23 GMT</pubDate>
+        <item>
+            <title><![CDATA[Google Cloud Machine Learning at Scale | Google Cloud]]></title>
+            <description><![CDATA[<article><h1>Google Cloud Machine Learning at Scale | Google Cloud</h1><p>Google Cloud Machine Learning provides modern machine learning services, including pre-trained models and a platform for generating your own tailored models.</p><img src="https://cloud.google.com/images/products/machine-learning/ml-lead.png"></article>]]></description>
+            <link>https://cloud.google.com/products/machine-learning/</link>
+            <guid isPermaLink="false">a6edbfb8-ae7d-47b6-b29f-a1ca19fd3605</guid>
+            <pubDate>Fri, 20 Jul 2018 06:32:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[State of AI]]></title>
             <description><![CDATA[<article><h1>State of AI</h1><p>A report that seeks to trigger informed conversation about the state of AI and its implication for the future.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://stanfordmlgroup.github.io/competitions/mura/</link>
             <guid isPermaLink="false">a7582558-7864-4590-950b-fab940782e72</guid>
             <pubDate>Fri, 25 May 2018 02:22:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What's In-Between]]></title>
-            <description><![CDATA[<article><h1>Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What&apos;s In-Between</h1><p>Understanding and computing filter banks and MFCCs and a discussion on why are filter banks becoming increasingly popular.</p><img src="http://haythamfayek.com/assets/posts/post1/hamming_window.jpg"></article>]]></description>
-            <link>http://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html</link>
-            <guid isPermaLink="false">c4a2b006-e609-44f9-989a-2daca37a1b6f</guid>
-            <pubDate>Sat, 19 May 2018 05:44:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
