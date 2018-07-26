@@ -4,9 +4,16 @@
         <description><![CDATA[Machine Learning]]></description>
         <link>http://machinelearning.engineering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Jul 2018 06:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jul 2018 05:40:57 GMT</lastBuildDate>
         <atom:link href="http://machinelearning.engineering/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Jul 2018 06:32:23 GMT</pubDate>
+        <pubDate>Thu, 26 Jul 2018 05:40:55 GMT</pubDate>
+        <item>
+            <title><![CDATA[An Opinionated Introduction to AutoML and Neural Architecture Search · fast.ai]]></title>
+            <description><![CDATA[<article><h1>An Opinionated Introduction to AutoML and Neural Architecture Search &middot; fast.ai</h1><p>Researchers from CMU and DeepMind recently released an interesting new paper, called Differentiable Architecture Search (DARTS), offering an alternative approach to neural architecture search, a very hot area of machine learning right now.</p><img src="http://www.fast.ai/images/neural_arch_search.jpg"></article>]]></description>
+            <link>http://www.fast.ai/2018/07/16/auto-ml2/</link>
+            <guid isPermaLink="false">f1bf6aeb-f672-499c-9b4b-57d33ea218dc</guid>
+            <pubDate>Thu, 26 Jul 2018 05:40:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google Cloud Machine Learning at Scale | Google Cloud]]></title>
             <description><![CDATA[<article><h1>Google Cloud Machine Learning at Scale | Google Cloud</h1><p>Google Cloud Machine Learning provides modern machine learning services, including pre-trained models and a platform for generating your own tailored models.</p><img src="https://cloud.google.com/images/products/machine-learning/ml-lead.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://blogs.unity3d.com/2018/06/19/unity-ml-agents-toolkit-v0-4-and-udacity-deep-reinforcement-learning-nanodegree/</link>
             <guid isPermaLink="false">d252ffeb-297c-427d-a46f-119b299d5346</guid>
             <pubDate>Tue, 19 Jun 2018 03:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MURA Dataset: Towards Radiologist-Level Abnormality Detection in Musculoskeletal Radiographs]]></title>
-            <description><![CDATA[<article><h1>MURA Dataset: Towards Radiologist-Level Abnormality Detection in Musculoskeletal Radiographs</h1><p>MURA is a large dataset of bone X-rays. Algorithms are tasked with determining whether an X-ray study is normal or abnormal.</p><img src="https://stanfordmlgroup.github.io/competitions/mura/img/dataset.png"></article>]]></description>
-            <link>https://stanfordmlgroup.github.io/competitions/mura/</link>
-            <guid isPermaLink="false">a7582558-7864-4590-950b-fab940782e72</guid>
-            <pubDate>Fri, 25 May 2018 02:22:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
